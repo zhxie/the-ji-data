@@ -1,0 +1,29 @@
+{
+  "id": 354,
+  "tmdb": 610253,
+  "title": "Halloween Kills",
+  "original_title": "Halloween Kills",
+  "image": "https://image.tmdb.org/t/p/original/ir9eyz1mtgsohjvo7UYtqUfFuES.jpg",
+  "language": "en",
+  "release_date": "2021-10-14",
+  "rating": 6.398,
+  "reviews": [
+    {
+      "review_date": "2021-10-17",
+      "rating": 6.398,
+      "scores": {
+        "firstImpression": 6,
+        "overallFeeling": 6,
+        "story": 6,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 7,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

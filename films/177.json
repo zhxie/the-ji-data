@@ -1,0 +1,29 @@
+{
+  "id": 177,
+  "tmdb": 30497,
+  "title": "The Texas Chain Saw Massacre",
+  "original_title": "The Texas Chain Saw Massacre",
+  "image": "https://image.tmdb.org/t/p/original/9s8uSm5K1W0vhGPHv2icM6SFib8.jpg",
+  "language": "en",
+  "release_date": "1974-10-01",
+  "rating": 7.987,
+  "reviews": [
+    {
+      "review_date": "2020-12-30",
+      "rating": 7.987,
+      "scores": {
+        "firstImpression": 9,
+        "overallFeeling": 9,
+        "story": 8,
+        "character": 7,
+        "director": 9,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 9,
+        "sound": 9,
+        "music": 9
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 328,
+  "tmdb": 565028,
+  "title": "Candyman",
+  "original_title": "Candyman",
+  "image": "https://image.tmdb.org/t/p/original/dqoshZPLNsXlC1qtz5n34raUyrE.jpg",
+  "language": "en",
+  "release_date": "2021-08-25",
+  "rating": 5.875,
+  "reviews": [
+    {
+      "review_date": "2021-09-01",
+      "rating": 5.875,
+      "scores": {
+        "firstImpression": 6,
+        "overallFeeling": 6,
+        "story": 6,
+        "character": 6,
+        "director": 6,
+        "performance": 6,
+        "visual": 7,
+        "art": 7,
+        "editing": 7,
+        "sound": 7,
+        "music": 9
+      }
+    }
+  ]
+}

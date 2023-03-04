@@ -1,0 +1,29 @@
+{
+  "id": 57,
+  "tmdb": 552178,
+  "title": "Dark Waters",
+  "original_title": "Dark Waters",
+  "image": "https://image.tmdb.org/t/p/original/yV6edeSb1ykiNpJ1ekRz8GPhENr.jpg",
+  "language": "en",
+  "release_date": "2019-11-22",
+  "rating": 6.675,
+  "reviews": [
+    {
+      "review_date": "2019-12-11",
+      "rating": 6.675,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 7,
+        "director": 8,
+        "performance": 7,
+        "visual": 7,
+        "art": 7,
+        "editing": 7,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

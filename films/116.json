@@ -1,0 +1,29 @@
+{
+  "id": 116,
+  "tmdb": 4498,
+  "title": "The Executioner",
+  "original_title": "El verdugo",
+  "image": "https://image.tmdb.org/t/p/original/z7U7XZWeRmsxqMtVahHHYQYIxlY.jpg",
+  "language": "es",
+  "release_date": "1963-08-31",
+  "rating": 7.867,
+  "reviews": [
+    {
+      "review_date": "2020-06-09",
+      "rating": 7.867,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 8,
+        "director": 8,
+        "performance": 8,
+        "visual": 9,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

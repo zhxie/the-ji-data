@@ -1,0 +1,29 @@
+{
+  "id": 483,
+  "tmdb": 351286,
+  "title": "Jurassic World: Fallen Kingdom",
+  "original_title": "Jurassic World: Fallen Kingdom",
+  "image": "https://image.tmdb.org/t/p/original/x8cLgs0uXlb9rmpuVIxopoRGnCr.jpg",
+  "language": "en",
+  "release_date": "2018-06-22",
+  "rating": 6.955,
+  "reviews": [
+    {
+      "review_date": "2022-06-04",
+      "rating": 6.955,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 6,
+        "story": 7,
+        "character": 7,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

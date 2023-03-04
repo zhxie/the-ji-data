@@ -1,0 +1,29 @@
+{
+  "id": 457,
+  "tmdb": 338952,
+  "title": "Fantastic Beasts: The Crimes of Grindelwald",
+  "original_title": "Fantastic Beasts: The Crimes of Grindelwald",
+  "image": "https://image.tmdb.org/t/p/original/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg",
+  "language": "en",
+  "release_date": "2018-11-14",
+  "rating": 6.635,
+  "reviews": [
+    {
+      "review_date": "2022-04-13",
+      "rating": 6.635,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 6,
+        "story": 7,
+        "character": 7,
+        "director": 6,
+        "performance": 7,
+        "visual": 7,
+        "art": 8,
+        "editing": 7,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

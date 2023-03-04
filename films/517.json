@@ -1,0 +1,29 @@
+{
+  "id": 517,
+  "tmdb": 539681,
+  "title": "DC League of Super-Pets",
+  "original_title": "DC League of Super-Pets",
+  "image": "https://image.tmdb.org/t/p/original/r7XifzvtezNt31ypvsmb6Oqxw49.jpg",
+  "language": "en",
+  "release_date": "2022-07-27",
+  "rating": 6.423,
+  "reviews": [
+    {
+      "review_date": "2022-07-30",
+      "rating": 6.423,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 6,
+        "art": 6,
+        "editing": 7,
+        "sound": 8,
+        "music": 6
+      }
+    }
+  ]
+}

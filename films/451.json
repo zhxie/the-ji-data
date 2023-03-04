@@ -1,0 +1,29 @@
+{
+  "id": 451,
+  "tmdb": 752623,
+  "title": "The Lost City",
+  "original_title": "The Lost City",
+  "image": "https://image.tmdb.org/t/p/original/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
+  "language": "en",
+  "release_date": "2022-03-24",
+  "rating": 4.603,
+  "reviews": [
+    {
+      "review_date": "2022-03-29",
+      "rating": 4.603,
+      "scores": {
+        "firstImpression": 4,
+        "overallFeeling": 4,
+        "story": 4,
+        "character": 6,
+        "director": 5,
+        "performance": 6,
+        "visual": 6,
+        "art": 6,
+        "editing": 6,
+        "sound": 7,
+        "music": 6
+      }
+    }
+  ]
+}

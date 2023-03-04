@@ -1,0 +1,29 @@
+{
+  "id": 289,
+  "tmdb": 580175,
+  "title": "Another Round",
+  "original_title": "Druk",
+  "image": "https://image.tmdb.org/t/p/original/fsn4cjpCvWuP9wU9hcFnK7M8RZC.jpg",
+  "language": "da",
+  "release_date": "2020-09-24",
+  "rating": 7.837,
+  "reviews": [
+    {
+      "review_date": "2021-07-02",
+      "rating": 7.837,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 8,
+        "director": 8,
+        "performance": 9,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 9
+      }
+    }
+  ]
+}

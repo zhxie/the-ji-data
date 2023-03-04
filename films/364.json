@@ -1,0 +1,29 @@
+{
+  "id": 364,
+  "tmdb": 10315,
+  "title": "Fantastic Mr. Fox",
+  "original_title": "Fantastic Mr. Fox",
+  "image": "https://image.tmdb.org/t/p/original/njbTizADSZg4PqeyJdDzZGooikv.jpg",
+  "language": "en",
+  "release_date": "2009-10-23",
+  "rating": 7.914,
+  "reviews": [
+    {
+      "review_date": "2021-11-02",
+      "rating": 7.914,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 9,
+        "story": 8,
+        "character": 8,
+        "director": 8,
+        "performance": 8,
+        "visual": 9,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

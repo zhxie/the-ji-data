@@ -1,0 +1,29 @@
+{
+  "id": 394,
+  "tmdb": 554230,
+  "title": "The Lost Daughter",
+  "original_title": "The Lost Daughter",
+  "image": "https://image.tmdb.org/t/p/original/t1oLNRFixpFOVsyz1HCqCUW3wiW.jpg",
+  "language": "en",
+  "release_date": "2021-12-16",
+  "rating": 7.566,
+  "reviews": [
+    {
+      "review_date": "2021-12-21",
+      "rating": 7.566,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 7,
+        "character": 8,
+        "director": 8,
+        "performance": 9,
+        "visual": 8,
+        "art": 7,
+        "editing": 7,
+        "sound": 8,
+        "music": 9
+      }
+    }
+  ]
+}

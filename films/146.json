@@ -1,0 +1,29 @@
+{
+  "id": 146,
+  "tmdb": 10439,
+  "title": "Hocus Pocus",
+  "original_title": "Hocus Pocus",
+  "image": "https://image.tmdb.org/t/p/original/by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg",
+  "language": "en",
+  "release_date": "1993-07-16",
+  "rating": 7.609,
+  "reviews": [
+    {
+      "review_date": "2020-10-19",
+      "rating": 7.609,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 7,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 9
+      }
+    }
+  ]
+}

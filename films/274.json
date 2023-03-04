@@ -1,0 +1,29 @@
+{
+  "id": 274,
+  "tmdb": 337404,
+  "title": "Cruella",
+  "original_title": "Cruella",
+  "image": "https://image.tmdb.org/t/p/original/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg",
+  "language": "en",
+  "release_date": "2021-05-26",
+  "rating": 6.864,
+  "reviews": [
+    {
+      "review_date": "2021-06-02",
+      "rating": 6.864,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 5,
+        "story": 7,
+        "character": 6,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 9,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

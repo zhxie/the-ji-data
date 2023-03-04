@@ -1,0 +1,29 @@
+{
+  "id": 213,
+  "tmdb": 9354,
+  "title": "Honey, I Shrunk the Kids",
+  "original_title": "Honey, I Shrunk the Kids",
+  "image": "https://image.tmdb.org/t/p/original/yRJk5uTiqQ0IP48jKaegKusOUv3.jpg",
+  "language": "en",
+  "release_date": "1989-06-23",
+  "rating": 6.343,
+  "reviews": [
+    {
+      "review_date": "2021-02-16",
+      "rating": 6.343,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 6,
+        "story": 7,
+        "character": 6,
+        "director": 7,
+        "performance": 6,
+        "visual": 7,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

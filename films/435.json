@@ -1,0 +1,29 @@
+{
+  "id": 435,
+  "tmdb": 660120,
+  "title": "The Worst Person in the World",
+  "original_title": "Verdens verste menneske",
+  "image": "https://image.tmdb.org/t/p/original/p5nLFV9aa76zhFK91Qi0xRlXvQ1.jpg",
+  "language": "no",
+  "release_date": "2021-10-13",
+  "rating": 7.61,
+  "reviews": [
+    {
+      "review_date": "2022-02-23",
+      "rating": 7.61,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 8,
+        "director": 9,
+        "performance": 9,
+        "visual": 8,
+        "art": 7,
+        "editing": 6,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

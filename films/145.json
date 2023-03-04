@@ -1,0 +1,29 @@
+{
+  "id": 145,
+  "tmdb": 29702,
+  "title": "Tenebre",
+  "original_title": "Tenebre",
+  "image": "https://image.tmdb.org/t/p/original/oWL53TrSKmps6HeZpcoQite5hDB.jpg",
+  "language": "it",
+  "release_date": "1982-10-28",
+  "rating": 6.508,
+  "reviews": [
+    {
+      "review_date": "2020-10-17",
+      "rating": 6.508,
+      "scores": {
+        "firstImpression": 6,
+        "overallFeeling": 6,
+        "story": 7,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 7,
+        "art": 7,
+        "editing": 7,
+        "sound": 7,
+        "music": 8
+      }
+    }
+  ]
+}

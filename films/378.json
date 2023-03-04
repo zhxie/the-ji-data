@@ -1,0 +1,29 @@
+{
+  "id": 378,
+  "tmdb": 644495,
+  "title": "House of Gucci",
+  "original_title": "House of Gucci",
+  "image": "https://image.tmdb.org/t/p/original/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
+  "language": "en",
+  "release_date": "2021-11-24",
+  "rating": 6.52,
+  "reviews": [
+    {
+      "review_date": "2021-11-29",
+      "rating": 6.52,
+      "scores": {
+        "firstImpression": 6,
+        "overallFeeling": 5,
+        "story": 7,
+        "character": 7,
+        "director": 7,
+        "performance": 8,
+        "visual": 6,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

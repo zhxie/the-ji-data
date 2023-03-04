@@ -1,0 +1,29 @@
+{
+  "id": 77,
+  "tmdb": 373200,
+  "title": "Detective Chinatown",
+  "original_title": "唐人街探案",
+  "image": "https://image.tmdb.org/t/p/original/sYmdUFpcpRqlmeETqhcMrYJbjbN.jpg",
+  "language": "zh",
+  "release_date": "2015-12-31",
+  "rating": 6.977,
+  "reviews": [
+    {
+      "review_date": "2020-02-05",
+      "rating": 6.977,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 7,
+        "director": 7,
+        "performance": 8,
+        "visual": 7,
+        "art": 8,
+        "editing": 7,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

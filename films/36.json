@@ -1,0 +1,29 @@
+{
+  "id": 36,
+  "tmdb": 496243,
+  "title": "Parasite",
+  "original_title": "기생충",
+  "image": "https://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+  "language": "ko",
+  "release_date": "2019-05-30",
+  "rating": 6.665,
+  "reviews": [
+    {
+      "review_date": "2019-11-07",
+      "rating": 6.665,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 6,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 7,
+        "music": 6
+      }
+    }
+  ]
+}

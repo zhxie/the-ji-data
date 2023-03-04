@@ -1,0 +1,29 @@
+{
+  "id": 560,
+  "tmdb": 615952,
+  "title": "Armageddon Time",
+  "original_title": "Armageddon Time",
+  "image": "https://image.tmdb.org/t/p/original/d0fkTMTN91f0tehqVKG9D9JMsDR.jpg",
+  "language": "en",
+  "release_date": "2022-10-28",
+  "rating": 7.686,
+  "reviews": [
+    {
+      "review_date": "2022-11-02",
+      "rating": 7.686,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 8,
+        "director": 7,
+        "performance": 10,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

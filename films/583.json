@@ -1,0 +1,29 @@
+{
+  "id": 583,
+  "tmdb": 615656,
+  "title": "Meg 2: The Trench",
+  "original_title": "Meg 2: The Trench",
+  "image": "https://image.tmdb.org/t/p/original/umYbu5PWSi0rQjUXUQCBwNmJyAS.jpg",
+  "language": "en",
+  "release_date": "2023-08-02",
+  "rating": 4.35,
+  "reviews": [
+    {
+      "review_date": "2022-12-12",
+      "rating": 4.35,
+      "scores": {
+        "firstImpression": 5,
+        "overallFeeling": 5,
+        "story": 4,
+        "character": 5,
+        "director": 6,
+        "performance": 5,
+        "visual": 6,
+        "art": 6,
+        "editing": 4,
+        "sound": 7,
+        "music": 6
+      }
+    }
+  ]
+}

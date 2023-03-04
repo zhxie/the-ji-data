@@ -1,0 +1,29 @@
+{
+  "id": 579,
+  "tmdb": 426426,
+  "title": "Roma",
+  "original_title": "Roma",
+  "image": "https://image.tmdb.org/t/p/original/kxZUWtJGbGqaUdXCYg2CTs8wyEc.jpg",
+  "language": "es",
+  "release_date": "2018-08-25",
+  "rating": 8.666,
+  "reviews": [
+    {
+      "review_date": "2022-12-06",
+      "rating": 8.666,
+      "scores": {
+        "firstImpression": 9,
+        "overallFeeling": 9,
+        "story": 8,
+        "character": 9,
+        "director": 9,
+        "performance": 9,
+        "visual": 9,
+        "art": 8,
+        "editing": 8,
+        "sound": 10,
+        "music": 0
+      }
+    }
+  ]
+}

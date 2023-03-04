@@ -1,0 +1,29 @@
+{
+  "id": 612,
+  "tmdb": 9804,
+  "title": "Waterworld",
+  "original_title": "Waterworld",
+  "image": "https://image.tmdb.org/t/p/original/nyCA6UfqEPsH1lqL6YVtVf0KwwN.jpg",
+  "language": "en",
+  "release_date": "1995-07-28",
+  "rating": 6.747,
+  "reviews": [
+    {
+      "review_date": "2023-02-07",
+      "rating": 6.747,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 8,
+        "art": 7,
+        "editing": 7,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

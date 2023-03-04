@@ -1,0 +1,29 @@
+{
+  "id": 160,
+  "tmdb": 510,
+  "title": "One Flew Over the Cuckoo's Nest",
+  "original_title": "One Flew Over the Cuckoo's Nest",
+  "image": "https://image.tmdb.org/t/p/original/3jcbDmRFiQ83drXNOvRDeKHxS0C.jpg",
+  "language": "en",
+  "release_date": "1975-11-19",
+  "rating": 8.522,
+  "reviews": [
+    {
+      "review_date": "2020-11-09",
+      "rating": 8.522,
+      "scores": {
+        "firstImpression": 9,
+        "overallFeeling": 9,
+        "story": 9,
+        "character": 8,
+        "director": 8,
+        "performance": 10,
+        "visual": 9,
+        "art": 9,
+        "editing": 9,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

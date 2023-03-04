@@ -1,0 +1,29 @@
+{
+  "id": 348,
+  "tmdb": 481084,
+  "title": "The Addams Family",
+  "original_title": "The Addams Family",
+  "image": "https://image.tmdb.org/t/p/original/q1epO0eO8DWu8Vo8tPfvVlzW48T.jpg",
+  "language": "en",
+  "release_date": "2019-10-10",
+  "rating": 5.876,
+  "reviews": [
+    {
+      "review_date": "2021-10-05",
+      "rating": 5.876,
+      "scores": {
+        "firstImpression": 6,
+        "overallFeeling": 6,
+        "story": 5,
+        "character": 6,
+        "director": 6,
+        "performance": 7,
+        "visual": 7,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 9
+      }
+    }
+  ]
+}

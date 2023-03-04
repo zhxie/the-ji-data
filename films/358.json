@@ -1,0 +1,29 @@
+{
+  "id": 358,
+  "tmdb": 438631,
+  "title": "Dune",
+  "original_title": "Dune",
+  "image": "https://image.tmdb.org/t/p/original/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+  "language": "en",
+  "release_date": "2021-10-22",
+  "rating": 7.93,
+  "reviews": [
+    {
+      "review_date": "2021-10-29",
+      "rating": 7.93,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 9,
+        "story": 8,
+        "character": 7,
+        "director": 9,
+        "performance": 8,
+        "visual": 9,
+        "art": 8,
+        "editing": 8,
+        "sound": 9,
+        "music": 9
+      }
+    }
+  ]
+}

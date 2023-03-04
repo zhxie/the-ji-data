@@ -1,0 +1,29 @@
+{
+  "id": 557,
+  "tmdb": 676547,
+  "title": "Prey for the Devil",
+  "original_title": "Prey for the Devil",
+  "image": "https://image.tmdb.org/t/p/original/iCvgemXf2Kpr2LvpDmt5J9NhjKM.jpg",
+  "language": "en",
+  "release_date": "2022-10-23",
+  "rating": 5.833,
+  "reviews": [
+    {
+      "review_date": "2022-10-30",
+      "rating": 5.833,
+      "scores": {
+        "firstImpression": 6,
+        "overallFeeling": 6,
+        "story": 6,
+        "character": 6,
+        "director": 7,
+        "performance": 6,
+        "visual": 7,
+        "art": 7,
+        "editing": 7,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 539,
+  "tmdb": 209274,
+  "title": "Ida",
+  "original_title": "Ida",
+  "image": "https://image.tmdb.org/t/p/original/rye5v1w3cXz5OrgAoN9OuXdQ1aW.jpg",
+  "language": "pl",
+  "release_date": "2013-10-25",
+  "rating": 8.495,
+  "reviews": [
+    {
+      "review_date": "2022-09-21",
+      "rating": 8.495,
+      "scores": {
+        "firstImpression": 9,
+        "overallFeeling": 9,
+        "story": 8,
+        "character": 9,
+        "director": 9,
+        "performance": 9,
+        "visual": 9,
+        "art": 8,
+        "editing": 9,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

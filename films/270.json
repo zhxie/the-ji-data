@@ -1,0 +1,29 @@
+{
+  "id": 270,
+  "tmdb": 480001,
+  "title": "The Art of Self-Defense",
+  "original_title": "The Art of Self-Defense",
+  "image": "https://image.tmdb.org/t/p/original/bTq793Qwl3tCXb94zrDPAwppbsC.jpg",
+  "language": "en",
+  "release_date": "2019-07-12",
+  "rating": 7.896,
+  "reviews": [
+    {
+      "review_date": "2021-05-29",
+      "rating": 7.896,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 8,
+        "director": 9,
+        "performance": 9,
+        "visual": 8,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

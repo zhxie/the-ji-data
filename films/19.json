@@ -1,0 +1,29 @@
+{
+  "id": 19,
+  "tmdb": 463257,
+  "title": "The Peanut Butter Falcon",
+  "original_title": "The Peanut Butter Falcon",
+  "image": "https://image.tmdb.org/t/p/original/qyQcRGvdW3VtxHR4fSDgPOePEip.jpg",
+  "language": "en",
+  "release_date": "2019-08-09",
+  "rating": 6.032,
+  "reviews": [
+    {
+      "review_date": "2019-09-09",
+      "rating": 6.032,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 6,
+        "character": 6,
+        "director": 6,
+        "performance": 8,
+        "visual": 7,
+        "art": 7,
+        "editing": 7,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

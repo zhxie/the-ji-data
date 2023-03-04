@@ -1,0 +1,29 @@
+{
+  "id": 74,
+  "tmdb": 938,
+  "title": "For a Few Dollars More",
+  "original_title": "Per qualche dollaro in più",
+  "image": "https://image.tmdb.org/t/p/original/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg",
+  "language": "it",
+  "release_date": "1965-12-18",
+  "rating": 7.67,
+  "reviews": [
+    {
+      "review_date": "2020-01-28",
+      "rating": 7.67,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 7,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 9,
+        "sound": 8,
+        "music": 9
+      }
+    }
+  ]
+}

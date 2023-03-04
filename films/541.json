@@ -1,0 +1,29 @@
+{
+  "id": 541,
+  "tmdb": 619730,
+  "title": "Don't Worry Darling",
+  "original_title": "Don't Worry Darling",
+  "image": "https://image.tmdb.org/t/p/original/jOqxKIOC92BVyinYO1Fm73XY7Tc.jpg",
+  "language": "en",
+  "release_date": "2022-09-21",
+  "rating": 6.889,
+  "reviews": [
+    {
+      "review_date": "2022-09-24",
+      "rating": 6.889,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 8,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 385,
+  "tmdb": 722778,
+  "title": "The Hand of God",
+  "original_title": "È stata la mano di Dio",
+  "image": "https://image.tmdb.org/t/p/original/kreVxr5moB7K52IGGV1BGAn6nq1.jpg",
+  "language": "it",
+  "release_date": "2021-11-24",
+  "rating": 7.854,
+  "reviews": [
+    {
+      "review_date": "2021-12-14",
+      "rating": 7.854,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 9,
+        "story": 7,
+        "character": 9,
+        "director": 8,
+        "performance": 8,
+        "visual": 7,
+        "art": 8,
+        "editing": 8,
+        "sound": 9,
+        "music": 8
+      }
+    }
+  ]
+}

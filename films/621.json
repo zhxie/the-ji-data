@@ -1,0 +1,29 @@
+{
+  "id": 621,
+  "tmdb": 714888,
+  "title": "Argentina, 1985",
+  "original_title": "Argentina, 1985",
+  "image": "https://image.tmdb.org/t/p/original/u0TFD4YFMfYtNSLxfbWq5cg0KIh.jpg",
+  "language": "es",
+  "release_date": "2022-09-29",
+  "rating": 6.398,
+  "reviews": [
+    {
+      "review_date": "2023-02-21",
+      "rating": 6.398,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 7,
+        "director": 6,
+        "performance": 7,
+        "visual": 7,
+        "art": 6,
+        "editing": 7,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

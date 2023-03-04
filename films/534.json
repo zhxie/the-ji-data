@@ -1,0 +1,29 @@
+{
+  "id": 534,
+  "tmdb": 724495,
+  "title": "The Woman King",
+  "original_title": "The Woman King",
+  "image": "https://image.tmdb.org/t/p/original/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",
+  "language": "en",
+  "release_date": "2022-09-16",
+  "rating": 6.193,
+  "reviews": [
+    {
+      "review_date": "2022-09-15",
+      "rating": 6.193,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 6,
+        "story": 7,
+        "character": 6,
+        "director": 7,
+        "performance": 8,
+        "visual": 6,
+        "art": 7,
+        "editing": 7,
+        "sound": 7,
+        "music": 6
+      }
+    }
+  ]
+}

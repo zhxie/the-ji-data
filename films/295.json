@@ -1,0 +1,29 @@
+{
+  "id": 295,
+  "tmdb": 523977,
+  "title": "Summerland",
+  "original_title": "Summerland",
+  "image": "https://image.tmdb.org/t/p/original/owfKp0rbBa8vHoNO30MdB3GiaYU.jpg",
+  "language": "en",
+  "release_date": "2020-07-24",
+  "rating": 7.164,
+  "reviews": [
+    {
+      "review_date": "2021-07-12",
+      "rating": 7.164,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 8,
+        "director": 7,
+        "performance": 8,
+        "visual": 8,
+        "art": 7,
+        "editing": 8,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

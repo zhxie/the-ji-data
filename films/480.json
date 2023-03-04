@@ -1,0 +1,29 @@
+{
+  "id": 480,
+  "tmdb": 121,
+  "title": "The Lord of the Rings: The Two Towers",
+  "original_title": "The Lord of the Rings: The Two Towers",
+  "image": "https://image.tmdb.org/t/p/original/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+  "language": "en",
+  "release_date": "2002-12-18",
+  "rating": 8.277,
+  "reviews": [
+    {
+      "review_date": "2022-05-28",
+      "rating": 8.277,
+      "scores": {
+        "firstImpression": 9,
+        "overallFeeling": 9,
+        "story": 8,
+        "character": 8,
+        "director": 9,
+        "performance": 8,
+        "visual": 9,
+        "art": 9,
+        "editing": 8,
+        "sound": 8,
+        "music": 10
+      }
+    }
+  ]
+}

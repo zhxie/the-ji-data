@@ -1,0 +1,29 @@
+{
+  "id": 395,
+  "tmdb": 600583,
+  "title": "The Power of the Dog",
+  "original_title": "The Power of the Dog",
+  "image": "https://image.tmdb.org/t/p/original/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg",
+  "language": "en",
+  "release_date": "2021-11-11",
+  "rating": 7.613,
+  "reviews": [
+    {
+      "review_date": "2021-12-21",
+      "rating": 7.613,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 7,
+        "character": 8,
+        "director": 7,
+        "performance": 8,
+        "visual": 10,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

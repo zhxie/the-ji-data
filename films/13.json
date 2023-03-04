@@ -1,0 +1,29 @@
+{
+  "id": 13,
+  "tmdb": 567609,
+  "title": "Ready or Not",
+  "original_title": "Ready or Not",
+  "image": "https://image.tmdb.org/t/p/original/vOl6shtL0wknjaIs6JdKCpcHvg8.jpg",
+  "language": "en",
+  "release_date": "2019-08-21",
+  "rating": 7.539,
+  "reviews": [
+    {
+      "review_date": "2019-08-29",
+      "rating": 7.539,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 7,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

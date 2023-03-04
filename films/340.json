@@ -1,0 +1,29 @@
+{
+  "id": 340,
+  "tmdb": 481432,
+  "title": "Happy as Lazzaro",
+  "original_title": "Lazzaro felice",
+  "image": "https://image.tmdb.org/t/p/original/j4x1O6G0cbchHQwNsEZ0DntOJMJ.jpg",
+  "language": "it",
+  "release_date": "2018-05-31",
+  "rating": 7.846,
+  "reviews": [
+    {
+      "review_date": "2021-09-17",
+      "rating": 7.846,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 8,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 9
+      }
+    }
+  ]
+}

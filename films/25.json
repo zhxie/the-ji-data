@@ -1,0 +1,29 @@
+{
+  "id": 25,
+  "tmdb": 475557,
+  "title": "Joker",
+  "original_title": "Joker",
+  "image": "https://image.tmdb.org/t/p/original/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+  "language": "en",
+  "release_date": "2019-10-01",
+  "rating": 8.726,
+  "reviews": [
+    {
+      "review_date": "2019-10-09",
+      "rating": 8.726,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 9,
+        "director": 9,
+        "performance": 10,
+        "visual": 10,
+        "art": 9,
+        "editing": 9,
+        "sound": 9,
+        "music": 9
+      }
+    }
+  ]
+}

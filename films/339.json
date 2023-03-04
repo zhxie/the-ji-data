@@ -1,0 +1,29 @@
+{
+  "id": 339,
+  "tmdb": 738652,
+  "title": "Copshop",
+  "original_title": "Copshop",
+  "image": "https://image.tmdb.org/t/p/original/szArp3dQlVajpsqpyPFVAFHFsa3.jpg",
+  "language": "en",
+  "release_date": "2021-09-09",
+  "rating": 6.652,
+  "reviews": [
+    {
+      "review_date": "2021-09-17",
+      "rating": 6.652,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 7,
+        "art": 7,
+        "editing": 7,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

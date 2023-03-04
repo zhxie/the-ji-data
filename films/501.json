@@ -1,0 +1,29 @@
+{
+  "id": 501,
+  "tmdb": 614934,
+  "title": "Elvis",
+  "original_title": "Elvis",
+  "image": "https://image.tmdb.org/t/p/original/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+  "language": "en",
+  "release_date": "2022-06-22",
+  "rating": 5.847,
+  "reviews": [
+    {
+      "review_date": "2022-06-29",
+      "rating": 5.847,
+      "scores": {
+        "firstImpression": 6,
+        "overallFeeling": 5,
+        "story": 6,
+        "character": 6,
+        "director": 6,
+        "performance": 7,
+        "visual": 8,
+        "art": 8,
+        "editing": 6,
+        "sound": 6,
+        "music": 8
+      }
+    }
+  ]
+}

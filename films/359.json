@@ -1,0 +1,29 @@
+{
+  "id": 359,
+  "tmdb": 542178,
+  "title": "The French Dispatch",
+  "original_title": "The French Dispatch",
+  "image": "https://image.tmdb.org/t/p/original/pMTMSKBEe5sMg1ZxWCy9YWLuyln.jpg",
+  "language": "en",
+  "release_date": "2021-10-21",
+  "rating": 7.772,
+  "reviews": [
+    {
+      "review_date": "2021-10-28",
+      "rating": 7.772,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 7,
+        "director": 8,
+        "performance": 8,
+        "visual": 10,
+        "art": 9,
+        "editing": 9,
+        "sound": 8,
+        "music": 9
+      }
+    }
+  ]
+}

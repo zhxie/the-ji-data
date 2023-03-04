@@ -1,0 +1,29 @@
+{
+  "id": 540,
+  "tmdb": 19995,
+  "title": "Avatar",
+  "original_title": "Avatar",
+  "image": "https://image.tmdb.org/t/p/original/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+  "language": "en",
+  "release_date": "2009-12-15",
+  "rating": 7.747,
+  "reviews": [
+    {
+      "review_date": "2022-09-25",
+      "rating": 7.747,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 7,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 9,
+        "editing": 8,
+        "sound": 9,
+        "music": 9
+      }
+    }
+  ]
+}

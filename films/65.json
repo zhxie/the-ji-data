@@ -1,0 +1,29 @@
+{
+  "id": 65,
+  "tmdb": 181812,
+  "title": "Star Wars: The Rise of Skywalker",
+  "original_title": "Star Wars: The Rise of Skywalker",
+  "image": "https://image.tmdb.org/t/p/original/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+  "language": "en",
+  "release_date": "2019-12-18",
+  "rating": 6.442,
+  "reviews": [
+    {
+      "review_date": "2019-12-20",
+      "rating": 6.442,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 6,
+        "character": 6,
+        "director": 7,
+        "performance": 7,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 32,
+  "tmdb": 630,
+  "title": "The Wizard of Oz",
+  "original_title": "The Wizard of Oz",
+  "image": "https://image.tmdb.org/t/p/original/bSA6DbAC5gdkaooU164lQUX6rVs.jpg",
+  "language": "en",
+  "release_date": "1939-08-15",
+  "rating": 6.912,
+  "reviews": [
+    {
+      "review_date": "2019-10-30",
+      "rating": 6.912,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 6,
+        "director": 7,
+        "performance": 8,
+        "visual": 7,
+        "art": 8,
+        "editing": 7,
+        "sound": 7,
+        "music": 9
+      }
+    }
+  ]
+}

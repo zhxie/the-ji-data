@@ -1,0 +1,29 @@
+{
+  "id": 599,
+  "tmdb": 1003758,
+  "title": "Robotica Destructiva",
+  "original_title": "Robotica Destructiva",
+  "image": "https://image.tmdb.org/t/p/original/5cr94i3XgGlViYU80fMz8qMZ1ou.jpg",
+  "language": "en",
+  "release_date": "2023-01-06",
+  "rating": 6.735,
+  "reviews": [
+    {
+      "review_date": "2023-01-18",
+      "rating": 6.735,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 7,
+        "director": 8,
+        "performance": 7,
+        "visual": 7,
+        "art": 8,
+        "editing": 7,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

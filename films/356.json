@@ -1,0 +1,29 @@
+{
+  "id": 356,
+  "tmdb": 617653,
+  "title": "The Last Duel",
+  "original_title": "The Last Duel",
+  "image": "https://image.tmdb.org/t/p/original/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+  "language": "en",
+  "release_date": "2021-10-13",
+  "rating": 7.015,
+  "reviews": [
+    {
+      "review_date": "2021-10-20",
+      "rating": 7.015,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 6,
+        "story": 7,
+        "character": 7,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

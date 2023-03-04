@@ -1,0 +1,29 @@
+{
+  "id": 505,
+  "tmdb": 602334,
+  "title": "France",
+  "original_title": "France",
+  "image": "https://image.tmdb.org/t/p/original/fBy2pLBnEmmihaKodB25CfLECFj.jpg",
+  "language": "fr",
+  "release_date": "2021-08-25",
+  "rating": 7.99,
+  "reviews": [
+    {
+      "review_date": "2022-07-06",
+      "rating": 7.99,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 9,
+        "story": 8,
+        "character": 9,
+        "director": 8,
+        "performance": 9,
+        "visual": 7,
+        "art": 7,
+        "editing": 8,
+        "sound": 7,
+        "music": 9
+      }
+    }
+  ]
+}

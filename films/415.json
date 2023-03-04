@@ -1,0 +1,29 @@
+{
+  "id": 415,
+  "tmdb": 4234,
+  "title": "Scream 3",
+  "original_title": "Scream 3",
+  "image": "https://image.tmdb.org/t/p/original/qpH8ToZVlFD1bakL04LkEKodyDI.jpg",
+  "language": "en",
+  "release_date": "2000-02-03",
+  "rating": 5.845,
+  "reviews": [
+    {
+      "review_date": "2022-01-14",
+      "rating": 5.845,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 6,
+        "story": 6,
+        "character": 6,
+        "director": 7,
+        "performance": 6,
+        "visual": 6,
+        "art": 6,
+        "editing": 7,
+        "sound": 7,
+        "music": 8
+      }
+    }
+  ]
+}

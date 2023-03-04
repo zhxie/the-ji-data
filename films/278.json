@@ -1,0 +1,29 @@
+{
+  "id": 278,
+  "tmdb": 539,
+  "title": "Psycho",
+  "original_title": "Psycho",
+  "image": "https://image.tmdb.org/t/p/original/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+  "language": "en",
+  "release_date": "1960-06-22",
+  "rating": 8.794,
+  "reviews": [
+    {
+      "review_date": "2021-06-06",
+      "rating": 8.794,
+      "scores": {
+        "firstImpression": 9,
+        "overallFeeling": 9,
+        "story": 9,
+        "character": 8,
+        "director": 10,
+        "performance": 9,
+        "visual": 9,
+        "art": 8,
+        "editing": 10,
+        "sound": 9,
+        "music": 9
+      }
+    }
+  ]
+}

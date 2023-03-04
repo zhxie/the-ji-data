@@ -1,0 +1,29 @@
+{
+  "id": 135,
+  "tmdb": 19931,
+  "title": "The Joy Luck Club",
+  "original_title": "The Joy Luck Club",
+  "image": "https://image.tmdb.org/t/p/original/s1Sk0hhVARNs7i9wqRHqbCriu8n.jpg",
+  "language": "en",
+  "release_date": "1993-09-08",
+  "rating": 7.819,
+  "reviews": [
+    {
+      "review_date": "2020-09-16",
+      "rating": 7.819,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 8,
+        "director": 7,
+        "performance": 9,
+        "visual": 9,
+        "art": 9,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

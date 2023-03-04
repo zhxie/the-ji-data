@@ -1,0 +1,29 @@
+{
+  "id": 552,
+  "tmdb": 965150,
+  "title": "Aftersun",
+  "original_title": "Aftersun",
+  "image": "https://image.tmdb.org/t/p/original/jeXmhP2zbUkREMRqFOYIwQOk49T.jpg",
+  "language": "en",
+  "release_date": "2022-10-21",
+  "rating": 6.372,
+  "reviews": [
+    {
+      "review_date": "2022-10-22",
+      "rating": 6.372,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 8,
+        "story": 6,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 7,
+        "art": 7,
+        "editing": 7,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

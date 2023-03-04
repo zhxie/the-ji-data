@@ -1,0 +1,29 @@
+{
+  "id": 530,
+  "tmdb": 801965,
+  "title": "Breaking",
+  "original_title": "Breaking",
+  "image": "https://image.tmdb.org/t/p/original/rKbgbzJbVM7MLjN7EwdO1QcIXCz.jpg",
+  "language": "en",
+  "release_date": "2022-08-25",
+  "rating": 6.596,
+  "reviews": [
+    {
+      "review_date": "2022-08-29",
+      "rating": 6.596,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 6,
+        "story": 7,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 7,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 6
+      }
+    }
+  ]
+}

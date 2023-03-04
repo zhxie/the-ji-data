@@ -1,0 +1,29 @@
+{
+  "id": 556,
+  "tmdb": 436270,
+  "title": "Black Adam",
+  "original_title": "Black Adam",
+  "image": "https://image.tmdb.org/t/p/original/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg",
+  "language": "en",
+  "release_date": "2022-10-19",
+  "rating": 4.068,
+  "reviews": [
+    {
+      "review_date": "2022-10-28",
+      "rating": 4.068,
+      "scores": {
+        "firstImpression": 4,
+        "overallFeeling": 3,
+        "story": 4,
+        "character": 4,
+        "director": 4,
+        "performance": 5,
+        "visual": 7,
+        "art": 7,
+        "editing": 7,
+        "sound": 7,
+        "music": 6
+      }
+    }
+  ]
+}

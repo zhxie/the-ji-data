@@ -1,0 +1,29 @@
+{
+  "id": 88,
+  "tmdb": 428449,
+  "title": "A Ghost Story",
+  "original_title": "A Ghost Story",
+  "image": "https://image.tmdb.org/t/p/original/rp5JPIyZi9sMob15l46zNQLe5cO.jpg",
+  "language": "en",
+  "release_date": "2017-04-24",
+  "rating": 7.499,
+  "reviews": [
+    {
+      "review_date": "2020-03-11",
+      "rating": 7.499,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 7,
+        "character": 7,
+        "director": 8,
+        "performance": 8,
+        "visual": 9,
+        "art": 8,
+        "editing": 9,
+        "sound": 8,
+        "music": 9
+      }
+    }
+  ]
+}

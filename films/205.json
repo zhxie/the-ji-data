@@ -1,0 +1,29 @@
+{
+  "id": 205,
+  "tmdb": 73211,
+  "title": "King of Devil's Island",
+  "original_title": "Kongen av Bastøy",
+  "image": "https://image.tmdb.org/t/p/original/qsNOb119zUplzxWYZdxN1x8GxdI.jpg",
+  "language": "no",
+  "release_date": "2010-12-16",
+  "rating": 7.731,
+  "reviews": [
+    {
+      "review_date": "2021-02-01",
+      "rating": 7.731,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 8,
+        "director": 7,
+        "performance": 9,
+        "visual": 9,
+        "art": 8,
+        "editing": 7,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

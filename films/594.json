@@ -1,0 +1,29 @@
+{
+  "id": 594,
+  "tmdb": 615777,
+  "title": "Babylon",
+  "original_title": "Babylon",
+  "image": "https://image.tmdb.org/t/p/original/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+  "language": "en",
+  "release_date": "2022-12-22",
+  "rating": 8.459,
+  "reviews": [
+    {
+      "review_date": "2023-01-04",
+      "rating": 8.459,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 9,
+        "director": 9,
+        "performance": 8,
+        "visual": 9,
+        "art": 9,
+        "editing": 9,
+        "sound": 8,
+        "music": 10
+      }
+    }
+  ]
+}

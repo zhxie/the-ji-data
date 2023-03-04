@@ -1,0 +1,29 @@
+{
+  "id": 201,
+  "tmdb": 256040,
+  "title": "Bāhubali: The Beginning",
+  "original_title": "బాహుబలి:ద బిగినింగ్",
+  "image": "https://image.tmdb.org/t/p/original/9BAjt8nSSms62uOVYn1t3C3dVto.jpg",
+  "language": "te",
+  "release_date": "2015-07-10",
+  "rating": 6.234,
+  "reviews": [
+    {
+      "review_date": "2021-01-28",
+      "rating": 6.234,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 5,
+        "story": 7,
+        "character": 6,
+        "director": 7,
+        "performance": 7,
+        "visual": 6,
+        "art": 7,
+        "editing": 6,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

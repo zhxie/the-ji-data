@@ -1,0 +1,29 @@
+{
+  "id": 243,
+  "tmdb": 615667,
+  "title": "Ma Rainey's Black Bottom",
+  "original_title": "Ma Rainey's Black Bottom",
+  "image": "https://image.tmdb.org/t/p/original/pvtyxijaBrCSbByXLcUIDDSvc40.jpg",
+  "language": "en",
+  "release_date": "2020-11-25",
+  "rating": 7.494,
+  "reviews": [
+    {
+      "review_date": "2021-04-21",
+      "rating": 7.494,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 6,
+        "story": 8,
+        "character": 8,
+        "director": 7,
+        "performance": 8,
+        "visual": 7,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 9
+      }
+    }
+  ]
+}

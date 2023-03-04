@@ -1,0 +1,29 @@
+{
+  "id": 192,
+  "tmdb": 468,
+  "title": "My Own Private Idaho",
+  "original_title": "My Own Private Idaho",
+  "image": "https://image.tmdb.org/t/p/original/kDetMhm0Xz50IIb7bc2iQqONFz6.jpg",
+  "language": "en",
+  "release_date": "1991-02-01",
+  "rating": 8.337,
+  "reviews": [
+    {
+      "review_date": "2021-11-27",
+      "rating": 8.337,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 9,
+        "director": 9,
+        "performance": 10,
+        "visual": 8,
+        "art": 9,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

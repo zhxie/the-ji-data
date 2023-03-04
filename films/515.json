@@ -1,0 +1,29 @@
+{
+  "id": 515,
+  "tmdb": 929340,
+  "title": "A Christmas Story Christmas",
+  "original_title": "A Christmas Story Christmas",
+  "image": "https://image.tmdb.org/t/p/original/5QeoDiiIFY9VF87Rm79WpCFZbwf.jpg",
+  "language": "en",
+  "release_date": "2022-11-17",
+  "rating": 6.153,
+  "reviews": [
+    {
+      "review_date": "2022-07-27",
+      "rating": 6.153,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 6,
+        "story": 6,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 7,
+        "art": 6,
+        "editing": 6,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

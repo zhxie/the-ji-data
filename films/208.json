@@ -1,0 +1,29 @@
+{
+  "id": 208,
+  "tmdb": 442062,
+  "title": "Goosebumps 2: Haunted Halloween",
+  "original_title": "Goosebumps 2: Haunted Halloween",
+  "image": "https://image.tmdb.org/t/p/original/t2wy38iiMpB8WsgJi3lYeDnGh2H.jpg",
+  "language": "en",
+  "release_date": "2018-10-11",
+  "rating": 5.644,
+  "reviews": [
+    {
+      "review_date": "2021-02-06",
+      "rating": 5.644,
+      "scores": {
+        "firstImpression": 5,
+        "overallFeeling": 6,
+        "story": 5,
+        "character": 6,
+        "director": 6,
+        "performance": 6,
+        "visual": 8,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

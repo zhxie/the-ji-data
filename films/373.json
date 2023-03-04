@@ -1,0 +1,29 @@
+{
+  "id": 373,
+  "tmdb": 1725,
+  "title": "West Side Story",
+  "original_title": "West Side Story",
+  "image": "https://image.tmdb.org/t/p/original/nzCMu6D5q60i2bVrIQ0DxlRSgCZ.jpg",
+  "language": "en",
+  "release_date": "1961-12-13",
+  "rating": 7.475,
+  "reviews": [
+    {
+      "review_date": "2021-11-22",
+      "rating": 7.475,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 8,
+        "director": 8,
+        "performance": 7,
+        "visual": 7,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 9
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 75,
+  "tmdb": 429,
+  "title": "The Good, the Bad and the Ugly",
+  "original_title": "Il buono, il brutto, il cattivo",
+  "image": "https://image.tmdb.org/t/p/original/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+  "language": "it",
+  "release_date": "1966-12-23",
+  "rating": 8.075,
+  "reviews": [
+    {
+      "review_date": "2020-01-29",
+      "rating": 8.075,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 8,
+        "director": 9,
+        "performance": 9,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 10
+      }
+    }
+  ]
+}

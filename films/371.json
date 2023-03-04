@@ -1,0 +1,29 @@
+{
+  "id": 371,
+  "tmdb": 10802,
+  "title": "Showgirls",
+  "original_title": "Showgirls",
+  "image": "https://image.tmdb.org/t/p/original/ojcUMFpOhYuDOlIb4Ik47mBcYej.jpg",
+  "language": "en",
+  "release_date": "1995-09-22",
+  "rating": 7.878,
+  "reviews": [
+    {
+      "review_date": "2021-11-19",
+      "rating": 7.878,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 8,
+        "director": 8,
+        "performance": 9,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 9
+      }
+    }
+  ]
+}

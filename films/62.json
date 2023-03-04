@@ -1,0 +1,29 @@
+{
+  "id": 62,
+  "tmdb": 473033,
+  "title": "Uncut Gems",
+  "original_title": "Uncut Gems",
+  "image": "https://image.tmdb.org/t/p/original/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+  "language": "en",
+  "release_date": "2019-08-30",
+  "rating": 8.039,
+  "reviews": [
+    {
+      "review_date": "2019-12-19",
+      "rating": 8.039,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 8,
+        "director": 9,
+        "performance": 9,
+        "visual": 8,
+        "art": 7,
+        "editing": 9,
+        "sound": 9,
+        "music": 8
+      }
+    }
+  ]
+}

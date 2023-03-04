@@ -1,0 +1,29 @@
+{
+  "id": 191,
+  "tmdb": 438634,
+  "title": "Summer 1993",
+  "original_title": "Estiu 1993",
+  "image": "https://image.tmdb.org/t/p/original/krdSl7IpDb9c31CXrzA5yfP1oYM.jpg",
+  "language": "ca",
+  "release_date": "2017-03-24",
+  "rating": 7.879,
+  "reviews": [
+    {
+      "review_date": "2021-01-13",
+      "rating": 7.879,
+      "scores": {
+        "firstImpression": 9,
+        "overallFeeling": 8,
+        "story": 7,
+        "character": 8,
+        "director": 9,
+        "performance": 10,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

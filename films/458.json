@@ -1,0 +1,29 @@
+{
+  "id": 458,
+  "tmdb": 338953,
+  "title": "Fantastic Beasts: The Secrets of Dumbledore",
+  "original_title": "Fantastic Beasts: The Secrets of Dumbledore",
+  "image": "https://image.tmdb.org/t/p/original/jrgifaYeUtTnaH7NF5Drkgjg2MB.jpg",
+  "language": "en",
+  "release_date": "2022-04-06",
+  "rating": 6.314,
+  "reviews": [
+    {
+      "review_date": "2022-04-14",
+      "rating": 6.314,
+      "scores": {
+        "firstImpression": 6,
+        "overallFeeling": 5,
+        "story": 6,
+        "character": 7,
+        "director": 5,
+        "performance": 7,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 468,
+  "tmdb": 51424,
+  "title": "Tomorrow I'll Wake Up and Scald Myself with Tea",
+  "original_title": "Zítra vstanu a opařím se čajem",
+  "image": "https://image.tmdb.org/t/p/original/AfZVSvNQwCr0JwWsYBDbFLe6Adr.jpg",
+  "language": "cs",
+  "release_date": "1977-08-12",
+  "rating": 7.68,
+  "reviews": [
+    {
+      "review_date": "2022-05-12",
+      "rating": 7.68,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 7,
+        "story": 9,
+        "character": 7,
+        "director": 8,
+        "performance": 8,
+        "visual": 7,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

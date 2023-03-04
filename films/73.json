@@ -1,0 +1,29 @@
+{
+  "id": 73,
+  "tmdb": 391,
+  "title": "A Fistful of Dollars",
+  "original_title": "Per un pugno di dollari",
+  "image": "https://image.tmdb.org/t/p/original/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg",
+  "language": "it",
+  "release_date": "1964-01-18",
+  "rating": 7.727,
+  "reviews": [
+    {
+      "review_date": "2020-01-27",
+      "rating": 7.727,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 7,
+        "director": 9,
+        "performance": 8,
+        "visual": 7,
+        "art": 8,
+        "editing": 9,
+        "sound": 8,
+        "music": 10
+      }
+    }
+  ]
+}

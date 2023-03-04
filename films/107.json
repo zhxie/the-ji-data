@@ -1,0 +1,29 @@
+{
+  "id": 107,
+  "tmdb": 424781,
+  "title": "Sorry to Bother You",
+  "original_title": "Sorry to Bother You",
+  "image": "https://image.tmdb.org/t/p/original/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg",
+  "language": "en",
+  "release_date": "2018-07-06",
+  "rating": 7.776,
+  "reviews": [
+    {
+      "review_date": "2020-05-12",
+      "rating": 7.776,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 8,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

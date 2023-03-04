@@ -1,0 +1,29 @@
+{
+  "id": 259,
+  "tmdb": 62214,
+  "title": "Frankenweenie",
+  "original_title": "Frankenweenie",
+  "image": "https://image.tmdb.org/t/p/original/yGjVbLVdZRBlZTTQVBsj2KUjL1s.jpg",
+  "language": "en",
+  "release_date": "2012-10-04",
+  "rating": 7.922,
+  "reviews": [
+    {
+      "review_date": "2021-05-12",
+      "rating": 7.922,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 8,
+        "director": 9,
+        "performance": 8,
+        "visual": 9,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

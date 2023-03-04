@@ -1,0 +1,29 @@
+{
+  "id": 481,
+  "tmdb": 122,
+  "title": "The Lord of the Rings: The Return of the King",
+  "original_title": "The Lord of the Rings: The Return of the King",
+  "image": "https://image.tmdb.org/t/p/original/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+  "language": "en",
+  "release_date": "2003-12-01",
+  "rating": 8.19,
+  "reviews": [
+    {
+      "review_date": "2022-05-28",
+      "rating": 8.19,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 9,
+        "story": 8,
+        "character": 8,
+        "director": 9,
+        "performance": 8,
+        "visual": 9,
+        "art": 9,
+        "editing": 8,
+        "sound": 8,
+        "music": 10
+      }
+    }
+  ]
+}

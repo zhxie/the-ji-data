@@ -1,0 +1,29 @@
+{
+  "id": 544,
+  "tmdb": 664469,
+  "title": "Amsterdam",
+  "original_title": "Amsterdam",
+  "image": "https://image.tmdb.org/t/p/original/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg",
+  "language": "en",
+  "release_date": "2022-09-27",
+  "rating": 6.308,
+  "reviews": [
+    {
+      "review_date": "2022-10-08",
+      "rating": 6.308,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 6,
+        "story": 7,
+        "character": 6,
+        "director": 6,
+        "performance": 8,
+        "visual": 6,
+        "art": 7,
+        "editing": 7,
+        "sound": 7,
+        "music": 9
+      }
+    }
+  ]
+}

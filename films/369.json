@@ -1,0 +1,29 @@
+{
+  "id": 369,
+  "tmdb": 612,
+  "title": "Munich",
+  "original_title": "Munich",
+  "image": "https://image.tmdb.org/t/p/original/iUekaw96QLInZpsNwRTlRKrZgwm.jpg",
+  "language": "en",
+  "release_date": "2005-12-23",
+  "rating": 7.595,
+  "reviews": [
+    {
+      "review_date": "2021-11-13",
+      "rating": 7.595,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 6,
+        "story": 8,
+        "character": 8,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

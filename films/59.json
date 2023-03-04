@@ -1,0 +1,29 @@
+{
+  "id": 59,
+  "tmdb": 533444,
+  "title": "Waves",
+  "original_title": "Waves",
+  "image": "https://image.tmdb.org/t/p/original/3xbjL0z8iH8e8L3USyeKGQrBfuZ.jpg",
+  "language": "en",
+  "release_date": "2019-11-15",
+  "rating": 7.649,
+  "reviews": [
+    {
+      "review_date": "2019-12-16",
+      "rating": 7.649,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 7,
+        "director": 9,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 9,
+        "sound": 9,
+        "music": 8
+      }
+    }
+  ]
+}

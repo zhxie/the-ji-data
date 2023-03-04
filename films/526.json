@@ -1,0 +1,29 @@
+{
+  "id": 526,
+  "tmdb": 492452,
+  "title": "Ben Is Back",
+  "original_title": "Ben Is Back",
+  "image": "https://image.tmdb.org/t/p/original/eSPiprXuWqwMGi6t8BkdiTz9Ou3.jpg",
+  "language": "en",
+  "release_date": "2018-12-05",
+  "rating": 7.255,
+  "reviews": [
+    {
+      "review_date": "2022-08-16",
+      "rating": 7.255,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 7,
+        "character": 8,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 7,
+        "editing": 7,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 34,
+  "tmdb": 290859,
+  "title": "Terminator: Dark Fate",
+  "original_title": "Terminator: Dark Fate",
+  "image": "https://image.tmdb.org/t/p/original/vqzNJRH4YyquRiWxCCOH0aXggHI.jpg",
+  "language": "en",
+  "release_date": "2019-10-23",
+  "rating": 7.08,
+  "reviews": [
+    {
+      "review_date": "2019-11-05",
+      "rating": 7.08,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 7,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 566,
+  "tmdb": 505642,
+  "title": "Black Panther: Wakanda Forever",
+  "original_title": "Black Panther: Wakanda Forever",
+  "image": "https://image.tmdb.org/t/p/original/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+  "language": "en",
+  "release_date": "2022-11-09",
+  "rating": 4.807,
+  "reviews": [
+    {
+      "review_date": "2022-11-21",
+      "rating": 4.807,
+      "scores": {
+        "firstImpression": 4,
+        "overallFeeling": 4,
+        "story": 4,
+        "character": 6,
+        "director": 5,
+        "performance": 6,
+        "visual": 6,
+        "art": 7,
+        "editing": 7,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

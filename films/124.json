@@ -1,0 +1,29 @@
+{
+  "id": 124,
+  "tmdb": 3989,
+  "title": "Team America: World Police",
+  "original_title": "Team America: World Police",
+  "image": "https://image.tmdb.org/t/p/original/m1Q2VFe1DVVbjfu1LDZe7tlp9yb.jpg",
+  "language": "en",
+  "release_date": "2004-10-10",
+  "rating": 6.542,
+  "reviews": [
+    {
+      "review_date": "2020-06-19",
+      "rating": 6.542,
+      "scores": {
+        "firstImpression": 6,
+        "overallFeeling": 6,
+        "story": 7,
+        "character": 6,
+        "director": 8,
+        "performance": 7,
+        "visual": 8,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 83,
+  "tmdb": 454626,
+  "title": "Sonic the Hedgehog",
+  "original_title": "Sonic the Hedgehog",
+  "image": "https://image.tmdb.org/t/p/original/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+  "language": "en",
+  "release_date": "2020-02-12",
+  "rating": 7.043,
+  "reviews": [
+    {
+      "review_date": "2020-02-26",
+      "rating": 7.043,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 7,
+        "character": 7,
+        "director": 8,
+        "performance": 8,
+        "visual": 7,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

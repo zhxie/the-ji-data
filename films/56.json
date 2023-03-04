@@ -1,0 +1,29 @@
+{
+  "id": 56,
+  "tmdb": 512196,
+  "title": "Happy Death Day 2U",
+  "original_title": "Happy Death Day 2U",
+  "image": "https://image.tmdb.org/t/p/original/4tdnePOkOOzwuGPEOAHp8UA4vqx.jpg",
+  "language": "en",
+  "release_date": "2019-02-13",
+  "rating": 6.302,
+  "reviews": [
+    {
+      "review_date": "2019-12-08",
+      "rating": 6.302,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 6,
+        "character": 7,
+        "director": 6,
+        "performance": 7,
+        "visual": 7,
+        "art": 7,
+        "editing": 7,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

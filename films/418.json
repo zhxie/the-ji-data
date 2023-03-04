@@ -1,0 +1,29 @@
+{
+  "id": 418,
+  "tmdb": 646385,
+  "title": "Scream",
+  "original_title": "Scream",
+  "image": "https://image.tmdb.org/t/p/original/fFE6E9jRKaiy7LHxk4jH1jIWzyT.jpg",
+  "language": "en",
+  "release_date": "2022-01-12",
+  "rating": 5.687,
+  "reviews": [
+    {
+      "review_date": "2022-01-17",
+      "rating": 5.687,
+      "scores": {
+        "firstImpression": 6,
+        "overallFeeling": 6,
+        "story": 6,
+        "character": 6,
+        "director": 7,
+        "performance": 6,
+        "visual": 6,
+        "art": 6,
+        "editing": 7,
+        "sound": 8,
+        "music": 6
+      }
+    }
+  ]
+}

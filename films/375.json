@@ -1,0 +1,29 @@
+{
+  "id": 375,
+  "tmdb": 568124,
+  "title": "Encanto",
+  "original_title": "Encanto",
+  "image": "https://image.tmdb.org/t/p/original/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+  "language": "en",
+  "release_date": "2021-10-13",
+  "rating": 6.842,
+  "reviews": [
+    {
+      "review_date": "2021-11-23",
+      "rating": 6.842,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 6,
+        "story": 7,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 8,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

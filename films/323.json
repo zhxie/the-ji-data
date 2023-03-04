@@ -1,0 +1,29 @@
+{
+  "id": 323,
+  "tmdb": 645788,
+  "title": "The Protégé",
+  "original_title": "The Protégé",
+  "image": "https://image.tmdb.org/t/p/original/iQUj7MptHUlcXpaMLrqRNZRxGA9.jpg",
+  "language": "en",
+  "release_date": "2021-08-19",
+  "rating": 6.159,
+  "reviews": [
+    {
+      "review_date": "2021-08-24",
+      "rating": 6.159,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 6,
+        "story": 6,
+        "character": 6,
+        "director": 7,
+        "performance": 7,
+        "visual": 7,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

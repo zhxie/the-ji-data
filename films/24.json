@@ -1,0 +1,29 @@
+{
+  "id": 24,
+  "tmdb": 290098,
+  "title": "The Handmaiden",
+  "original_title": "아가씨",
+  "image": "https://image.tmdb.org/t/p/original/ic4s9k48semzBCUrbglyCmnGaHJ.jpg",
+  "language": "ko",
+  "release_date": "2016-06-01",
+  "rating": 6.893,
+  "reviews": [
+    {
+      "review_date": "2019-09-30",
+      "rating": 6.893,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 6,
+        "director": 8,
+        "performance": 8,
+        "visual": 7,
+        "art": 6,
+        "editing": 8,
+        "sound": 7,
+        "music": 8
+      }
+    }
+  ]
+}

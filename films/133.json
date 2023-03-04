@@ -1,0 +1,29 @@
+{
+  "id": 133,
+  "tmdb": 380,
+  "title": "Rain Man",
+  "original_title": "Rain Man",
+  "image": "https://image.tmdb.org/t/p/original/iTNHwO896WKkaoPtpMMS74d8VNi.jpg",
+  "language": "en",
+  "release_date": "1988-12-11",
+  "rating": 8.025,
+  "reviews": [
+    {
+      "review_date": "2020-09-08",
+      "rating": 8.025,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 8,
+        "director": 9,
+        "performance": 9,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 9
+      }
+    }
+  ]
+}

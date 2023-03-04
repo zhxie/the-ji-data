@@ -1,0 +1,29 @@
+{
+  "id": 554,
+  "tmdb": 817758,
+  "title": "TÁR",
+  "original_title": "TÁR",
+  "image": "https://image.tmdb.org/t/p/original/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+  "language": "en",
+  "release_date": "2022-09-23",
+  "rating": 8.237,
+  "reviews": [
+    {
+      "review_date": "2022-10-25",
+      "rating": 8.237,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 9,
+        "story": 8,
+        "character": 9,
+        "director": 8,
+        "performance": 9,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 9,
+        "music": 8
+      }
+    }
+  ]
+}

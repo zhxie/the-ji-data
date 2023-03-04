@@ -1,0 +1,29 @@
+{
+  "id": 71,
+  "tmdb": 423,
+  "title": "The Pianist",
+  "original_title": "The Pianist",
+  "image": "https://image.tmdb.org/t/p/original/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+  "language": "en",
+  "release_date": "2002-09-17",
+  "rating": 8.701,
+  "reviews": [
+    {
+      "review_date": "2020-01-22",
+      "rating": 8.701,
+      "scores": {
+        "firstImpression": 9,
+        "overallFeeling": 9,
+        "story": 9,
+        "character": 8,
+        "director": 9,
+        "performance": 9,
+        "visual": 9,
+        "art": 9,
+        "editing": 9,
+        "sound": 9,
+        "music": 9
+      }
+    }
+  ]
+}

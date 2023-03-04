@@ -1,0 +1,29 @@
+{
+  "id": 538,
+  "tmdb": 655,
+  "title": "Paris, Texas",
+  "original_title": "Paris, Texas",
+  "image": "https://image.tmdb.org/t/p/original/7G6ea5djDvCxfqfoMAX8479T4UB.jpg",
+  "language": "en",
+  "release_date": "1984-08-23",
+  "rating": 8.197,
+  "reviews": [
+    {
+      "review_date": "2022-09-19",
+      "rating": 8.197,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 9,
+        "director": 9,
+        "performance": 9,
+        "visual": 9,
+        "art": 9,
+        "editing": 8,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

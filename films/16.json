@@ -1,0 +1,29 @@
+{
+  "id": 16,
+  "tmdb": 521777,
+  "title": "Good Boys",
+  "original_title": "Good Boys",
+  "image": "https://image.tmdb.org/t/p/original/tximyCXMEnWIIyOy9STkOduUprG.jpg",
+  "language": "en",
+  "release_date": "2019-08-14",
+  "rating": 6.461,
+  "reviews": [
+    {
+      "review_date": "2019-09-05",
+      "rating": 6.461,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 6,
+        "director": 7,
+        "performance": 6,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

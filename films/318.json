@@ -1,0 +1,29 @@
+{
+  "id": 318,
+  "tmdb": 93655,
+  "title": "I Only Want You to Love Me",
+  "original_title": "Ich will doch nur, dass ihr mich liebt",
+  "image": "https://image.tmdb.org/t/p/original/iWRLLbOwaX1ZrWXCw2W9Ee9OiJ0.jpg",
+  "language": "de",
+  "release_date": "1976-03-23",
+  "rating": 8.086,
+  "reviews": [
+    {
+      "review_date": "2021-08-17",
+      "rating": 8.086,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 9,
+        "director": 9,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

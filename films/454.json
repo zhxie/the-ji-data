@@ -1,0 +1,29 @@
+{
+  "id": 454,
+  "tmdb": 883083,
+  "title": "You Won't Be Alone",
+  "original_title": "You Won't Be Alone",
+  "image": "https://image.tmdb.org/t/p/original/45W9ViL5ilurSLVzBEybYXHrxEJ.jpg",
+  "language": "mk",
+  "release_date": "2022-04-01",
+  "rating": 7.729,
+  "reviews": [
+    {
+      "review_date": "2022-04-10",
+      "rating": 7.729,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 8,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

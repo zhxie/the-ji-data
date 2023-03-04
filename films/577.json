@@ -1,0 +1,29 @@
+{
+  "id": 577,
+  "tmdb": 791177,
+  "title": "Bones and All",
+  "original_title": "Bones and All",
+  "image": "https://image.tmdb.org/t/p/original/l7nEUI7VVO4PhDL87b0sLN9xqoO.jpg",
+  "language": "it",
+  "release_date": "2022-11-18",
+  "rating": 5.827,
+  "reviews": [
+    {
+      "review_date": "2022-12-03",
+      "rating": 5.827,
+      "scores": {
+        "firstImpression": 6,
+        "overallFeeling": 6,
+        "story": 6,
+        "character": 6,
+        "director": 6,
+        "performance": 7,
+        "visual": 7,
+        "art": 6,
+        "editing": 7,
+        "sound": 7,
+        "music": 8
+      }
+    }
+  ]
+}

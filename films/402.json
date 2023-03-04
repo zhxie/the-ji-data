@@ -1,0 +1,29 @@
+{
+  "id": 402,
+  "tmdb": 438695,
+  "title": "Sing 2",
+  "original_title": "Sing 2",
+  "image": "https://image.tmdb.org/t/p/original/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
+  "language": "en",
+  "release_date": "2021-12-01",
+  "rating": 6.971,
+  "reviews": [
+    {
+      "review_date": "2021-12-29",
+      "rating": 6.971,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 6,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 9
+      }
+    }
+  ]
+}

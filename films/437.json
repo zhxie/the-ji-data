@@ -1,0 +1,29 @@
+{
+  "id": 437,
+  "tmdb": 895744,
+  "title": "Studio 666",
+  "original_title": "Studio 666",
+  "image": "https://image.tmdb.org/t/p/original/zD2XyaV6eGEEgEzVnjg0hQVR5yz.jpg",
+  "language": "en",
+  "release_date": "2022-02-24",
+  "rating": 6.698,
+  "reviews": [
+    {
+      "review_date": "2022-02-28",
+      "rating": 6.698,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 6,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

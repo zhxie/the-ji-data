@@ -1,0 +1,29 @@
+{
+  "id": 442,
+  "tmdb": 508947,
+  "title": "Turning Red",
+  "original_title": "Turning Red",
+  "image": "https://image.tmdb.org/t/p/original/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+  "language": "en",
+  "release_date": "2022-03-10",
+  "rating": 7.415,
+  "reviews": [
+    {
+      "review_date": "2022-03-13",
+      "rating": 7.415,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 8,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 9
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 194,
+  "tmdb": 2567,
+  "title": "The Aviator",
+  "original_title": "The Aviator",
+  "image": "https://image.tmdb.org/t/p/original/lx4kWcZc3o9PaNxlQpEJZM17XUI.jpg",
+  "language": "en",
+  "release_date": "2004-12-17",
+  "rating": 8.128,
+  "reviews": [
+    {
+      "review_date": "2021-01-19",
+      "rating": 8.128,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 8,
+        "director": 9,
+        "performance": 9,
+        "visual": 9,
+        "art": 8,
+        "editing": 8,
+        "sound": 9,
+        "music": 8
+      }
+    }
+  ]
+}

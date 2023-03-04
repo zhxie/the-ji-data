@@ -1,0 +1,29 @@
+{
+  "id": 377,
+  "tmdb": 460458,
+  "title": "Resident Evil: Welcome to Raccoon City",
+  "original_title": "Resident Evil: Welcome to Raccoon City",
+  "image": "https://image.tmdb.org/t/p/original/7uRbWOXxpWDMtnsd2PF3clu65jc.jpg",
+  "language": "en",
+  "release_date": "2021-11-24",
+  "rating": 5.566,
+  "reviews": [
+    {
+      "review_date": "2021-11-24",
+      "rating": 5.566,
+      "scores": {
+        "firstImpression": 6,
+        "overallFeeling": 6,
+        "story": 5,
+        "character": 5,
+        "director": 7,
+        "performance": 6,
+        "visual": 7,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 390,
+  "tmdb": 62,
+  "title": "2001: A Space Odyssey",
+  "original_title": "2001: A Space Odyssey",
+  "image": "https://image.tmdb.org/t/p/original/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+  "language": "en",
+  "release_date": "1968-04-02",
+  "rating": 7.968,
+  "reviews": [
+    {
+      "review_date": "2021-12-17",
+      "rating": 7.968,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 8,
+        "director": 9,
+        "performance": 8,
+        "visual": 9,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

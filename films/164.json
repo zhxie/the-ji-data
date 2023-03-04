@@ -1,0 +1,29 @@
+{
+  "id": 164,
+  "tmdb": 556984,
+  "title": "The Trial of the Chicago 7",
+  "original_title": "The Trial of the Chicago 7",
+  "image": "https://image.tmdb.org/t/p/original/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+  "language": "en",
+  "release_date": "2020-09-25",
+  "rating": 7.557,
+  "reviews": [
+    {
+      "review_date": "2020-11-15",
+      "rating": 7.557,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 7,
+        "director": 8,
+        "performance": 8,
+        "visual": 9,
+        "art": 8,
+        "editing": 9,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

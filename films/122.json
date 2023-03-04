@@ -1,0 +1,29 @@
+{
+  "id": 122,
+  "tmdb": 9487,
+  "title": "A Bug's Life",
+  "original_title": "A Bug's Life",
+  "image": "https://image.tmdb.org/t/p/original/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
+  "language": "en",
+  "release_date": "1998-11-25",
+  "rating": 7.539,
+  "reviews": [
+    {
+      "review_date": "2020-06-17",
+      "rating": 7.539,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 7,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

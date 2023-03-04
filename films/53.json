@@ -1,0 +1,29 @@
+{
+  "id": 53,
+  "tmdb": 104,
+  "title": "Run Lola Run",
+  "original_title": "Lola rennt",
+  "image": "https://image.tmdb.org/t/p/original/v0giIi4bTILVhNhJajet3WWY3FA.jpg",
+  "language": "de",
+  "release_date": "1998-03-03",
+  "rating": 7.548,
+  "reviews": [
+    {
+      "review_date": "2019-12-01",
+      "rating": 7.548,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 7,
+        "director": 9,
+        "performance": 8,
+        "visual": 7,
+        "art": 7,
+        "editing": 9,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

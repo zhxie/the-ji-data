@@ -1,0 +1,29 @@
+{
+  "id": 252,
+  "tmdb": 1278,
+  "title": "The Dreamers",
+  "original_title": "The Dreamers",
+  "image": "https://image.tmdb.org/t/p/original/gBb7GGaFYPu7nEUYvC8G4LaJJN1.jpg",
+  "language": "en",
+  "release_date": "2003-09-01",
+  "rating": 7.539,
+  "reviews": [
+    {
+      "review_date": "2021-05-04",
+      "rating": 7.539,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 7,
+        "character": 8,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

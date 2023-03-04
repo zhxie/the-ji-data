@@ -1,0 +1,29 @@
+{
+  "id": 69,
+  "tmdb": 440298,
+  "title": "Cold War",
+  "original_title": "Zimna wojna",
+  "image": "https://image.tmdb.org/t/p/original/6rbS8oPIgUMhQgIX8oGVTtlNgLR.jpg",
+  "language": "pl",
+  "release_date": "2018-06-08",
+  "rating": 7.471,
+  "reviews": [
+    {
+      "review_date": "2020-01-20",
+      "rating": 7.471,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 6,
+        "director": 7,
+        "performance": 8,
+        "visual": 10,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 9
+      }
+    }
+  ]
+}

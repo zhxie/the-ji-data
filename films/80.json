@@ -1,0 +1,29 @@
+{
+  "id": 80,
+  "tmdb": 454640,
+  "title": "The Angry Birds Movie 2",
+  "original_title": "The Angry Birds Movie 2",
+  "image": "https://image.tmdb.org/t/p/original/ebe8hJRCwdflNQbUjRrfmqtUiNi.jpg",
+  "language": "en",
+  "release_date": "2019-08-02",
+  "rating": 6.489,
+  "reviews": [
+    {
+      "review_date": "2020-02-22",
+      "rating": 6.489,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 6,
+        "director": 7,
+        "performance": 7,
+        "visual": 7,
+        "art": 7,
+        "editing": 7,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

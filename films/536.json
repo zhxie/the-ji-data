@@ -1,0 +1,29 @@
+{
+  "id": 536,
+  "tmdb": 879990,
+  "title": "God's Country",
+  "original_title": "God's Country",
+  "image": "https://image.tmdb.org/t/p/original/aZp190Qx33oRO8KGSkO1sFjEqC2.jpg",
+  "language": "en",
+  "release_date": "2022-09-15",
+  "rating": 7.124,
+  "reviews": [
+    {
+      "review_date": "2022-09-17",
+      "rating": 7.124,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 8,
+        "director": 7,
+        "performance": 8,
+        "visual": 7,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

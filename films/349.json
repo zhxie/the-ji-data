@@ -1,0 +1,29 @@
+{
+  "id": 349,
+  "tmdb": 639721,
+  "title": "The Addams Family 2",
+  "original_title": "The Addams Family 2",
+  "image": "https://image.tmdb.org/t/p/original/ld7YB9vBRp1GM1DT3KmFWSmtBPB.jpg",
+  "language": "en",
+  "release_date": "2021-10-01",
+  "rating": 5.334,
+  "reviews": [
+    {
+      "review_date": "2021-10-05",
+      "rating": 5.334,
+      "scores": {
+        "firstImpression": 4,
+        "overallFeeling": 4,
+        "story": 5,
+        "character": 6,
+        "director": 5,
+        "performance": 7,
+        "visual": 7,
+        "art": 7,
+        "editing": 8,
+        "sound": 7,
+        "music": 8
+      }
+    }
+  ]
+}

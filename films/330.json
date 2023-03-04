@@ -1,0 +1,29 @@
+{
+  "id": 330,
+  "tmdb": 441531,
+  "title": "Shock Wave",
+  "original_title": "拆彈專家",
+  "image": "https://image.tmdb.org/t/p/original/l4G4M6V9UrNRdbcsbnMmEZUyBGw.jpg",
+  "language": "cn",
+  "release_date": "2017-04-20",
+  "rating": 6.444,
+  "reviews": [
+    {
+      "review_date": "2021-09-03",
+      "rating": 6.444,
+      "scores": {
+        "firstImpression": 6,
+        "overallFeeling": 5,
+        "story": 7,
+        "character": 7,
+        "director": 6,
+        "performance": 8,
+        "visual": 7,
+        "art": 7,
+        "editing": 7,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

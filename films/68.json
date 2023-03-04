@@ -1,0 +1,29 @@
+{
+  "id": 68,
+  "tmdb": 292011,
+  "title": "Richard Jewell",
+  "original_title": "Richard Jewell",
+  "image": "https://image.tmdb.org/t/p/original/5Lgkm8jt4roAFPZQ52fKMhVmDaZ.jpg",
+  "language": "en",
+  "release_date": "2019-12-13",
+  "rating": 7.386,
+  "reviews": [
+    {
+      "review_date": "2020-01-17",
+      "rating": 7.386,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 7,
+        "director": 8,
+        "performance": 9,
+        "visual": 7,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 555,
+  "tmdb": 11447,
+  "title": "The Son's Room",
+  "original_title": "La stanza del figlio",
+  "image": "https://image.tmdb.org/t/p/original/v4uF970cf5QTAqhx1ruSntMoq9P.jpg",
+  "language": "it",
+  "release_date": "2001-03-09",
+  "rating": 8.299,
+  "reviews": [
+    {
+      "review_date": "2022-10-27",
+      "rating": 8.299,
+      "scores": {
+        "firstImpression": 9,
+        "overallFeeling": 9,
+        "story": 8,
+        "character": 8,
+        "director": 9,
+        "performance": 9,
+        "visual": 9,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 10
+      }
+    }
+  ]
+}

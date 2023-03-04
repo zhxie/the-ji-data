@@ -1,0 +1,29 @@
+{
+  "id": 311,
+  "tmdb": 374458,
+  "title": "Graduation",
+  "original_title": "Bacalaureat",
+  "image": "https://image.tmdb.org/t/p/original/oHczUfmNQIWgByK1GwyhA3H3ZbC.jpg",
+  "language": "ro",
+  "release_date": "2016-05-20",
+  "rating": 8.259,
+  "reviews": [
+    {
+      "review_date": "2021-08-10",
+      "rating": 8.259,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 9,
+        "story": 9,
+        "character": 8,
+        "director": 9,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 9,
+        "music": 8
+      }
+    }
+  ]
+}

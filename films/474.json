@@ -1,0 +1,29 @@
+{
+  "id": 474,
+  "tmdb": 329,
+  "title": "Jurassic Park",
+  "original_title": "Jurassic Park",
+  "image": "https://image.tmdb.org/t/p/original/oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg",
+  "language": "en",
+  "release_date": "1993-06-11",
+  "rating": 7.534,
+  "reviews": [
+    {
+      "review_date": "2022-05-21",
+      "rating": 7.534,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 9,
+        "story": 7,
+        "character": 7,
+        "director": 8,
+        "performance": 8,
+        "visual": 9,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 170,
+  "tmdb": 337401,
+  "title": "Mulan",
+  "original_title": "Mulan",
+  "image": "https://image.tmdb.org/t/p/original/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",
+  "language": "en",
+  "release_date": "2020-09-04",
+  "rating": 5.209,
+  "reviews": [
+    {
+      "review_date": "2020-12-11",
+      "rating": 5.209,
+      "scores": {
+        "firstImpression": 5,
+        "overallFeeling": 5,
+        "story": 5,
+        "character": 6,
+        "director": 5,
+        "performance": 7,
+        "visual": 7,
+        "art": 5,
+        "editing": 7,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

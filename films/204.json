@@ -1,0 +1,29 @@
+{
+  "id": 204,
+  "tmdb": 452557,
+  "title": "Wolf Warrior 2",
+  "original_title": "战狼2",
+  "image": "https://image.tmdb.org/t/p/original/ophb3WpBZz5oNLoUbOTelvIzeku.jpg",
+  "language": "zh",
+  "release_date": "2017-07-27",
+  "rating": 5.696,
+  "reviews": [
+    {
+      "review_date": "2021-01-31",
+      "rating": 5.696,
+      "scores": {
+        "firstImpression": 6,
+        "overallFeeling": 6,
+        "story": 6,
+        "character": 6,
+        "director": 7,
+        "performance": 6,
+        "visual": 6,
+        "art": 6,
+        "editing": 6,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

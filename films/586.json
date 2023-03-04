@@ -1,0 +1,29 @@
+{
+  "id": 586,
+  "tmdb": 426238,
+  "title": "Beach Rats",
+  "original_title": "Beach Rats",
+  "image": "https://image.tmdb.org/t/p/original/oQZPPsvoipd38jasPhvJOpajbug.jpg",
+  "language": "en",
+  "release_date": "2017-08-25",
+  "rating": 7.805,
+  "reviews": [
+    {
+      "review_date": "2022-12-16",
+      "rating": 7.805,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 7,
+        "character": 9,
+        "director": 8,
+        "performance": 9,
+        "visual": 7,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 413,
+  "tmdb": 4232,
+  "title": "Scream",
+  "original_title": "Scream",
+  "image": "https://image.tmdb.org/t/p/original/3O3klyyYpAZBBE4n7IngzTomRDp.jpg",
+  "language": "en",
+  "release_date": "1996-12-20",
+  "rating": 7.203,
+  "reviews": [
+    {
+      "review_date": "2022-01-12",
+      "rating": 7.203,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 8,
+        "director": 7,
+        "performance": 6,
+        "visual": 7,
+        "art": 7,
+        "editing": 7,
+        "sound": 7,
+        "music": 8
+      }
+    }
+  ]
+}

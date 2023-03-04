@@ -1,0 +1,29 @@
+{
+  "id": 246,
+  "tmdb": 529203,
+  "title": "The Croods: A New Age",
+  "original_title": "The Croods: A New Age",
+  "image": "https://image.tmdb.org/t/p/original/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg",
+  "language": "en",
+  "release_date": "2020-11-25",
+  "rating": 6.802,
+  "reviews": [
+    {
+      "review_date": "2021-04-27",
+      "rating": 6.802,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 6,
+        "director": 7,
+        "performance": 7,
+        "visual": 9,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

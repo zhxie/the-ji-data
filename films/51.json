@@ -1,0 +1,29 @@
+{
+  "id": 51,
+  "tmdb": 330457,
+  "title": "Frozen II",
+  "original_title": "Frozen II",
+  "image": "https://image.tmdb.org/t/p/original/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+  "language": "en",
+  "release_date": "2019-11-20",
+  "rating": 6.903,
+  "reviews": [
+    {
+      "review_date": "2019-11-28",
+      "rating": 6.903,
+      "scores": {
+        "firstImpression": 6,
+        "overallFeeling": 6,
+        "story": 7,
+        "character": 6,
+        "director": 7,
+        "performance": 8,
+        "visual": 9,
+        "art": 8,
+        "editing": 8,
+        "sound": 9,
+        "music": 9
+      }
+    }
+  ]
+}

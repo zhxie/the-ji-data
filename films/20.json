@@ -1,0 +1,29 @@
+{
+  "id": 20,
+  "tmdb": 28213,
+  "title": "A Tale of Springtime",
+  "original_title": "Conte de printemps",
+  "image": "https://image.tmdb.org/t/p/original/bP2qpuzQPBBBJa4kOhvLvOOiASq.jpg",
+  "language": "fr",
+  "release_date": "1990-04-04",
+  "rating": 7.539,
+  "reviews": [
+    {
+      "review_date": "2019-09-10",
+      "rating": 7.539,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 7,
+        "character": 8,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

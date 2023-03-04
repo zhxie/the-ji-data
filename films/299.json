@@ -1,0 +1,29 @@
+{
+  "id": 299,
+  "tmdb": 379686,
+  "title": "Space Jam: A New Legacy",
+  "original_title": "Space Jam: A New Legacy",
+  "image": "https://image.tmdb.org/t/p/original/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg",
+  "language": "en",
+  "release_date": "2021-07-08",
+  "rating": 3.2,
+  "reviews": [
+    {
+      "review_date": "2021-07-19",
+      "rating": 3.2,
+      "scores": {
+        "firstImpression": 2,
+        "overallFeeling": 2,
+        "story": 3,
+        "character": 4,
+        "director": 2,
+        "performance": 4,
+        "visual": 6,
+        "art": 5,
+        "editing": 7,
+        "sound": 7,
+        "music": 6
+      }
+    }
+  ]
+}

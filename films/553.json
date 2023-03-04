@@ -1,0 +1,29 @@
+{
+  "id": 553,
+  "tmdb": 374173,
+  "title": "Kapoor & Sons",
+  "original_title": "कपूर एण्ड सन्स",
+  "image": "https://image.tmdb.org/t/p/original/oPdcOInH8TqR5udDTDPiDuLSN90.jpg",
+  "language": "hi",
+  "release_date": "2016-03-18",
+  "rating": 6.363,
+  "reviews": [
+    {
+      "review_date": "2022-10-24",
+      "rating": 6.363,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 6,
+        "story": 7,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 6,
+        "art": 6,
+        "editing": 7,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

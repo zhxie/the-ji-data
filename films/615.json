@@ -1,0 +1,29 @@
+{
+  "id": 615,
+  "tmdb": 906221,
+  "title": "Magic Mike's Last Dance",
+  "original_title": "Magic Mike's Last Dance",
+  "image": "https://image.tmdb.org/t/p/original/5C9rerMqV1X0jnRdbbsM1BswVI2.jpg",
+  "language": "en",
+  "release_date": "2023-02-09",
+  "rating": 5.415,
+  "reviews": [
+    {
+      "review_date": "2023-02-11",
+      "rating": 5.415,
+      "scores": {
+        "firstImpression": 5,
+        "overallFeeling": 5,
+        "story": 6,
+        "character": 6,
+        "director": 5,
+        "performance": 6,
+        "visual": 7,
+        "art": 7,
+        "editing": 6,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

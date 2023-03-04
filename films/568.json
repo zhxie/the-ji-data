@@ -1,0 +1,29 @@
+{
+  "id": 568,
+  "tmdb": 661374,
+  "title": "Glass Onion: A Knives Out Mystery",
+  "original_title": "Glass Onion: A Knives Out Mystery",
+  "image": "https://image.tmdb.org/t/p/original/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+  "language": "en",
+  "release_date": "2022-11-23",
+  "rating": 6.722,
+  "reviews": [
+    {
+      "review_date": "2022-11-24",
+      "rating": 6.722,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 6,
+        "story": 7,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 7,
+        "art": 8,
+        "editing": 8,
+        "sound": 7,
+        "music": 8
+      }
+    }
+  ]
+}

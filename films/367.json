@@ -1,0 +1,29 @@
+{
+  "id": 367,
+  "tmdb": 524434,
+  "title": "Eternals",
+  "original_title": "Eternals",
+  "image": "https://image.tmdb.org/t/p/original/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+  "language": "en",
+  "release_date": "2021-11-03",
+  "rating": 5.699,
+  "reviews": [
+    {
+      "review_date": "2021-11-07",
+      "rating": 5.699,
+      "scores": {
+        "firstImpression": 6,
+        "overallFeeling": 5,
+        "story": 6,
+        "character": 6,
+        "director": 6,
+        "performance": 6,
+        "visual": 8,
+        "art": 7,
+        "editing": 7,
+        "sound": 7,
+        "music": 6
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 613,
+  "tmdb": 749142,
+  "title": "Olga",
+  "original_title": "Olga",
+  "image": "https://image.tmdb.org/t/p/original/weLIf43ZUoGj1SuI3PLLlYSZW6L.jpg",
+  "language": "uk",
+  "release_date": "2021-11-17",
+  "rating": 7.076,
+  "reviews": [
+    {
+      "review_date": "2023-02-09",
+      "rating": 7.076,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 8,
+        "director": 7,
+        "performance": 7,
+        "visual": 8,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

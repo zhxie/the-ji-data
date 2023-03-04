@@ -1,0 +1,29 @@
+{
+  "id": 47,
+  "tmdb": 534780,
+  "title": "Andhadhun",
+  "original_title": "अंधाधुन",
+  "image": "https://image.tmdb.org/t/p/original/dy3K6hNvwE05siGgiLJcEiwgpdO.jpg",
+  "language": "hi",
+  "release_date": "2018-10-05",
+  "rating": 7.461,
+  "reviews": [
+    {
+      "review_date": "2019-11-25",
+      "rating": 7.461,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 7,
+        "character": 9,
+        "director": 7,
+        "performance": 7,
+        "visual": 7,
+        "art": 8,
+        "editing": 7,
+        "sound": 7,
+        "music": 9
+      }
+    }
+  ]
+}

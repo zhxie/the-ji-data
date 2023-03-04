@@ -1,0 +1,29 @@
+{
+  "id": 384,
+  "tmdb": 511809,
+  "title": "West Side Story",
+  "original_title": "West Side Story",
+  "image": "https://image.tmdb.org/t/p/original/lnUxSldaVI0mYCCf2akyQpbTFgr.jpg",
+  "language": "en",
+  "release_date": "2021-12-08",
+  "rating": 7.164,
+  "reviews": [
+    {
+      "review_date": "2021-12-10",
+      "rating": 7.164,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 6,
+        "story": 7,
+        "character": 7,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 9
+      }
+    }
+  ]
+}

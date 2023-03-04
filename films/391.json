@@ -1,0 +1,29 @@
+{
+  "id": 391,
+  "tmdb": 593,
+  "title": "Solaris",
+  "original_title": "Солярис",
+  "image": "https://image.tmdb.org/t/p/original/nVS59KVITySXPFV7ABRJrEYVJ3d.jpg",
+  "language": "ru",
+  "release_date": "1972-03-20",
+  "rating": 7.822,
+  "reviews": [
+    {
+      "review_date": "2021-12-18",
+      "rating": 7.822,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 9,
+        "story": 8,
+        "character": 8,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 614,
+  "tmdb": 522039,
+  "title": "The Last Black Man in San Francisco",
+  "original_title": "The Last Black Man in San Francisco",
+  "image": "https://image.tmdb.org/t/p/original/ow9zjibNrz5TYVZ6cqwmvCR1YX1.jpg",
+  "language": "en",
+  "release_date": "2019-06-07",
+  "rating": 6.083,
+  "reviews": [
+    {
+      "review_date": "2023-02-10",
+      "rating": 6.083,
+      "scores": {
+        "firstImpression": 6,
+        "overallFeeling": 6,
+        "story": 6,
+        "character": 7,
+        "director": 6,
+        "performance": 6,
+        "visual": 7,
+        "art": 6,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

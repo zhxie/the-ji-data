@@ -1,0 +1,29 @@
+{
+  "id": 510,
+  "tmdb": 616037,
+  "title": "Thor: Love and Thunder",
+  "original_title": "Thor: Love and Thunder",
+  "image": "https://image.tmdb.org/t/p/original/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+  "language": "en",
+  "release_date": "2022-07-06",
+  "rating": 3.759,
+  "reviews": [
+    {
+      "review_date": "2022-07-13",
+      "rating": 3.759,
+      "scores": {
+        "firstImpression": 3,
+        "overallFeeling": 3,
+        "story": 3,
+        "character": 3,
+        "director": 4,
+        "performance": 6,
+        "visual": 7,
+        "art": 6,
+        "editing": 7,
+        "sound": 7,
+        "music": 8
+      }
+    }
+  ]
+}

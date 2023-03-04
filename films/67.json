@@ -1,0 +1,29 @@
+{
+  "id": 67,
+  "tmdb": 431693,
+  "title": "Spies in Disguise",
+  "original_title": "Spies in Disguise",
+  "image": "https://image.tmdb.org/t/p/original/30YacPAcxpNemhhwX0PVUl9pVA3.jpg",
+  "language": "en",
+  "release_date": "2019-12-04",
+  "rating": 6.889,
+  "reviews": [
+    {
+      "review_date": "2020-01-18",
+      "rating": 6.889,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 8,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

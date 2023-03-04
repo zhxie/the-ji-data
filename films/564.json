@@ -1,0 +1,29 @@
+{
+  "id": 564,
+  "tmdb": 663712,
+  "title": "Terrifier 2",
+  "original_title": "Terrifier 2",
+  "image": "https://image.tmdb.org/t/p/original/8gLhu8UFPZfH2Hv11JhTZkb9CVl.jpg",
+  "language": "en",
+  "release_date": "2022-10-06",
+  "rating": 5.945,
+  "reviews": [
+    {
+      "review_date": "2022-11-06",
+      "rating": 5.945,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 6,
+        "story": 5,
+        "character": 6,
+        "director": 8,
+        "performance": 6,
+        "visual": 7,
+        "art": 8,
+        "editing": 7,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

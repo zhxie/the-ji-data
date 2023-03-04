@@ -1,0 +1,29 @@
+{
+  "id": 285,
+  "tmdb": 17814,
+  "title": "Assault on Precinct 13",
+  "original_title": "Assault on Precinct 13",
+  "image": "https://image.tmdb.org/t/p/original/3PlUJaWvR0Nr261rqsI6XvaKM4T.jpg",
+  "language": "en",
+  "release_date": "1976-11-05",
+  "rating": 6.278,
+  "reviews": [
+    {
+      "review_date": "2021-06-27",
+      "rating": 6.278,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 6,
+        "story": 6,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 7,
+        "art": 7,
+        "editing": 7,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

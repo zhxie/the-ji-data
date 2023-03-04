@@ -1,0 +1,29 @@
+{
+  "id": 338,
+  "tmdb": 643532,
+  "title": "The Card Counter",
+  "original_title": "The Card Counter",
+  "image": "https://image.tmdb.org/t/p/original/y5DNLVg0gPiGSkuK4yFc4fjQ42Q.jpg",
+  "language": "en",
+  "release_date": "2021-09-03",
+  "rating": 6.651,
+  "reviews": [
+    {
+      "review_date": "2021-09-16",
+      "rating": 6.651,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 7,
+        "director": 7,
+        "performance": 8,
+        "visual": 7,
+        "art": 7,
+        "editing": 7,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

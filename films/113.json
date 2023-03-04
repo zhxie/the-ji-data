@@ -1,0 +1,29 @@
+{
+  "id": 113,
+  "tmdb": 446021,
+  "title": "Bad Times at the El Royale",
+  "original_title": "Bad Times at the El Royale",
+  "image": "https://image.tmdb.org/t/p/original/iNtFgXqXPRMkm1QO8CHn5sHfUgE.jpg",
+  "language": "en",
+  "release_date": "2018-10-04",
+  "rating": 7.693,
+  "reviews": [
+    {
+      "review_date": "2020-05-26",
+      "rating": 7.693,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 8,
+        "director": 8,
+        "performance": 8,
+        "visual": 7,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 9
+      }
+    }
+  ]
+}

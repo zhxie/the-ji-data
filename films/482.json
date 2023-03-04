@@ -1,0 +1,29 @@
+{
+  "id": 482,
+  "tmdb": 361743,
+  "title": "Top Gun: Maverick",
+  "original_title": "Top Gun: Maverick",
+  "image": "https://image.tmdb.org/t/p/original/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+  "language": "en",
+  "release_date": "2022-05-24",
+  "rating": 6.98,
+  "reviews": [
+    {
+      "review_date": "2022-05-30",
+      "rating": 6.98,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 7,
+        "director": 8,
+        "performance": 7,
+        "visual": 8,
+        "art": 7,
+        "editing": 9,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

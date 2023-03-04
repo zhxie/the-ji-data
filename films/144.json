@@ -1,0 +1,29 @@
+{
+  "id": 144,
+  "tmdb": 9479,
+  "title": "The Nightmare Before Christmas",
+  "original_title": "The Nightmare Before Christmas",
+  "image": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+  "language": "en",
+  "release_date": "1993-10-09",
+  "rating": 8.072,
+  "reviews": [
+    {
+      "review_date": "2020-10-15",
+      "rating": 8.072,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 8,
+        "director": 8,
+        "performance": 9,
+        "visual": 9,
+        "art": 9,
+        "editing": 8,
+        "sound": 8,
+        "music": 9
+      }
+    }
+  ]
+}

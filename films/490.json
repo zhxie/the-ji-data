@@ -1,0 +1,29 @@
+{
+  "id": 490,
+  "tmdb": 507086,
+  "title": "Jurassic World Dominion",
+  "original_title": "Jurassic World Dominion",
+  "image": "https://image.tmdb.org/t/p/original/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg",
+  "language": "en",
+  "release_date": "2022-06-01",
+  "rating": 5.359,
+  "reviews": [
+    {
+      "review_date": "2022-06-12",
+      "rating": 5.359,
+      "scores": {
+        "firstImpression": 5,
+        "overallFeeling": 5,
+        "story": 5,
+        "character": 6,
+        "director": 7,
+        "performance": 6,
+        "visual": 6,
+        "art": 7,
+        "editing": 7,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 54,
+  "tmdb": 530915,
+  "title": "1917",
+  "original_title": "1917",
+  "image": "https://image.tmdb.org/t/p/original/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+  "language": "en",
+  "release_date": "2019-12-25",
+  "rating": 8.019,
+  "reviews": [
+    {
+      "review_date": "2019-12-04",
+      "rating": 8.019,
+      "scores": {
+        "firstImpression": 9,
+        "overallFeeling": 9,
+        "story": 8,
+        "character": 7,
+        "director": 9,
+        "performance": 8,
+        "visual": 10,
+        "art": 8,
+        "editing": 9,
+        "sound": 9,
+        "music": 7
+      }
+    }
+  ]
+}

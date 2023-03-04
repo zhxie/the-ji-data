@@ -1,0 +1,29 @@
+{
+  "id": 502,
+  "tmdb": 594082,
+  "title": "Mosul",
+  "original_title": "Mosul",
+  "image": "https://image.tmdb.org/t/p/original/2vjephttoBH1ujOZcsqWlftLbhg.jpg",
+  "language": "en",
+  "release_date": "2019-05-14",
+  "rating": 7.227,
+  "reviews": [
+    {
+      "review_date": "2022-06-30",
+      "rating": 7.227,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 8,
+        "director": 8,
+        "performance": 7,
+        "visual": 7,
+        "art": 7,
+        "editing": 7,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

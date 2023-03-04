@@ -1,0 +1,29 @@
+{
+  "id": 147,
+  "tmdb": 720755,
+  "title": "The Kid Detective",
+  "original_title": "The Kid Detective",
+  "image": "https://image.tmdb.org/t/p/original/2WrT8AZUcDicvf5m8KVgspQEHK3.jpg",
+  "language": "en",
+  "release_date": "2020-10-16",
+  "rating": 7.523,
+  "reviews": [
+    {
+      "review_date": "2020-10-21",
+      "rating": 7.523,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 7,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 9,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

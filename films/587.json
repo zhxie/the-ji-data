@@ -1,0 +1,29 @@
+{
+  "id": 587,
+  "tmdb": 595671,
+  "title": "Never Rarely Sometimes Always",
+  "original_title": "Never Rarely Sometimes Always",
+  "image": "https://image.tmdb.org/t/p/original/7yiSyQhhjTFphhfCUcn05tCQxyG.jpg",
+  "language": "en",
+  "release_date": "2020-03-13",
+  "rating": 7.708,
+  "reviews": [
+    {
+      "review_date": "2022-12-17",
+      "rating": 7.708,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 8,
+        "director": 8,
+        "performance": 9,
+        "visual": 8,
+        "art": 8,
+        "editing": 7,
+        "sound": 7,
+        "music": 8
+      }
+    }
+  ]
+}

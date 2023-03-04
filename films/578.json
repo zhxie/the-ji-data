@@ -1,0 +1,29 @@
+{
+  "id": 578,
+  "tmdb": 804095,
+  "title": "The Fabelmans",
+  "original_title": "The Fabelmans",
+  "image": "https://image.tmdb.org/t/p/original/d2IywyOPS78vEnJvwVqkVRTiNC1.jpg",
+  "language": "en",
+  "release_date": "2022-11-11",
+  "rating": 8.006,
+  "reviews": [
+    {
+      "review_date": "2022-12-04",
+      "rating": 8.006,
+      "scores": {
+        "firstImpression": 9,
+        "overallFeeling": 9,
+        "story": 8,
+        "character": 8,
+        "director": 9,
+        "performance": 9,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 7,
+        "music": 8
+      }
+    }
+  ]
+}

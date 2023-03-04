@@ -1,0 +1,29 @@
+{
+  "id": 72,
+  "tmdb": 275,
+  "title": "Fargo",
+  "original_title": "Fargo",
+  "image": "https://image.tmdb.org/t/p/original/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+  "language": "en",
+  "release_date": "1996-03-08",
+  "rating": 7.177,
+  "reviews": [
+    {
+      "review_date": "2020-01-23",
+      "rating": 7.177,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 6,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 6
+      }
+    }
+  ]
+}

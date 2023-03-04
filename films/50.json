@@ -1,0 +1,29 @@
+{
+  "id": 50,
+  "tmdb": 546554,
+  "title": "Knives Out",
+  "original_title": "Knives Out",
+  "image": "https://image.tmdb.org/t/p/original/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+  "language": "en",
+  "release_date": "2019-11-27",
+  "rating": 7.878,
+  "reviews": [
+    {
+      "review_date": "2019-11-28",
+      "rating": 7.878,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 9,
+        "character": 7,
+        "director": 8,
+        "performance": 9,
+        "visual": 8,
+        "art": 9,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

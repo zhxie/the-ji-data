@@ -1,0 +1,29 @@
+{
+  "id": 292,
+  "tmdb": 539565,
+  "title": "Zola",
+  "original_title": "Zola",
+  "image": "https://image.tmdb.org/t/p/original/bJLCPROp9bmNndurwZpVnOioVpB.jpg",
+  "language": "en",
+  "release_date": "2020-01-24",
+  "rating": 7.635,
+  "reviews": [
+    {
+      "review_date": "2021-07-09",
+      "rating": 7.635,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 7,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 10,
+        "music": 9
+      }
+    }
+  ]
+}

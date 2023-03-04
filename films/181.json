@@ -1,0 +1,29 @@
+{
+  "id": 181,
+  "tmdb": 451504,
+  "title": "Joint Custody",
+  "original_title": "Garde alternée",
+  "image": "https://image.tmdb.org/t/p/original/heGJlmfQUn7rqNsBUF04Jv3v8sw.jpg",
+  "language": "fr",
+  "release_date": "2017-12-20",
+  "rating": 7.734,
+  "reviews": [
+    {
+      "review_date": "2021-01-03",
+      "rating": 7.734,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 8,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 9,
+        "music": 7
+      }
+    }
+  ]
+}

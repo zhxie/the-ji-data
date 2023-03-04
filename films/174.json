@@ -1,0 +1,29 @@
+{
+  "id": 174,
+  "tmdb": 284427,
+  "title": "Who Am I",
+  "original_title": "Who Am I - Kein System ist sicher",
+  "image": "https://image.tmdb.org/t/p/original/oR3tbNzJMJmCKS5O5fanU9yxIOk.jpg",
+  "language": "de",
+  "release_date": "2014-09-25",
+  "rating": 6.55,
+  "reviews": [
+    {
+      "review_date": "2020-12-24",
+      "rating": 6.55,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 6,
+        "director": 7,
+        "performance": 7,
+        "visual": 7,
+        "art": 6,
+        "editing": 8,
+        "sound": 7,
+        "music": 6
+      }
+    }
+  ]
+}

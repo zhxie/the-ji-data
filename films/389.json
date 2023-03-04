@@ -1,0 +1,29 @@
+{
+  "id": 389,
+  "tmdb": 594767,
+  "title": "Shazam! Fury of the Gods",
+  "original_title": "Shazam! Fury of the Gods",
+  "image": "https://image.tmdb.org/t/p/original/zpCCTtuQMHiHycpsrWnW2eCrBql.jpg",
+  "language": "en",
+  "release_date": "2023-03-15",
+  "rating": 6.709,
+  "reviews": [
+    {
+      "review_date": "2021-12-16",
+      "rating": 6.709,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 6,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

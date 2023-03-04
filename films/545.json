@@ -1,0 +1,29 @@
+{
+  "id": 545,
+  "tmdb": 497828,
+  "title": "Triangle of Sadness",
+  "original_title": "Triangle of Sadness",
+  "image": "https://image.tmdb.org/t/p/original/jXHmT914ACC81F1Dy57hsesuoYj.jpg",
+  "language": "en",
+  "release_date": "2022-09-23",
+  "rating": 8.344,
+  "reviews": [
+    {
+      "review_date": "2022-10-09",
+      "rating": 8.344,
+      "scores": {
+        "firstImpression": 9,
+        "overallFeeling": 9,
+        "story": 9,
+        "character": 8,
+        "director": 9,
+        "performance": 9,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

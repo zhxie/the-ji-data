@@ -1,0 +1,29 @@
+{
+  "id": 589,
+  "tmdb": 13342,
+  "title": "Fast Times at Ridgemont High",
+  "original_title": "Fast Times at Ridgemont High",
+  "image": "https://image.tmdb.org/t/p/original/e15rmfjf0m6EGLe4MnNhwD3Dd1W.jpg",
+  "language": "en",
+  "release_date": "1982-08-13",
+  "rating": 5.845,
+  "reviews": [
+    {
+      "review_date": "2022-12-20",
+      "rating": 5.845,
+      "scores": {
+        "firstImpression": 6,
+        "overallFeeling": 6,
+        "story": 6,
+        "character": 6,
+        "director": 7,
+        "performance": 8,
+        "visual": 6,
+        "art": 6,
+        "editing": 7,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

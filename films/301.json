@@ -1,0 +1,29 @@
+{
+  "id": 301,
+  "tmdb": 437586,
+  "title": "mid90s",
+  "original_title": "mid90s",
+  "image": "https://image.tmdb.org/t/p/original/9Tw0Y3DK5kGIU9X1yw3Q9gCkOlb.jpg",
+  "language": "en",
+  "release_date": "2018-10-19",
+  "rating": 7.682,
+  "reviews": [
+    {
+      "review_date": "2021-07-24",
+      "rating": 7.682,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 7,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 9,
+        "sound": 9,
+        "music": 8
+      }
+    }
+  ]
+}

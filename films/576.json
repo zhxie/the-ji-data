@@ -1,0 +1,29 @@
+{
+  "id": 576,
+  "tmdb": 685691,
+  "title": "BARDO, False Chronicle of a Handful of Truths",
+  "original_title": "Bardo, falsa crónica de unas cuantas verdades",
+  "image": "https://image.tmdb.org/t/p/original/3e6RA0CzFDC0pz5TqiRlbHcsc2n.jpg",
+  "language": "es",
+  "release_date": "2022-10-27",
+  "rating": 8.014,
+  "reviews": [
+    {
+      "review_date": "2022-12-03",
+      "rating": 8.014,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 9,
+        "story": 8,
+        "character": 8,
+        "director": 9,
+        "performance": 8,
+        "visual": 9,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

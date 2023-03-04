@@ -1,0 +1,29 @@
+{
+  "id": 38,
+  "tmdb": 84334,
+  "title": "Searching for Sugar Man",
+  "original_title": "Searching for Sugar Man",
+  "image": "https://image.tmdb.org/t/p/original/3NpWidWIw0cQAzmNHWgu9dqaJ7v.jpg",
+  "language": "en",
+  "release_date": "2012-06-30",
+  "rating": 8.006,
+  "reviews": [
+    {
+      "review_date": "2019-11-09",
+      "rating": 8.006,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 8,
+        "director": 8,
+        "performance": 9,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 9,
+        "music": 9
+      }
+    }
+  ]
+}

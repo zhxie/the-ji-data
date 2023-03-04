@@ -1,0 +1,29 @@
+{
+  "id": 475,
+  "tmdb": 330,
+  "title": "The Lost World: Jurassic Park",
+  "original_title": "The Lost World: Jurassic Park",
+  "image": "https://image.tmdb.org/t/p/original/jElpCJkSaRPYwIMwZY28gOKV7BK.jpg",
+  "language": "en",
+  "release_date": "1997-05-23",
+  "rating": 6.077,
+  "reviews": [
+    {
+      "review_date": "2022-05-22",
+      "rating": 6.077,
+      "scores": {
+        "firstImpression": 6,
+        "overallFeeling": 6,
+        "story": 5,
+        "character": 5,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 9
+      }
+    }
+  ]
+}

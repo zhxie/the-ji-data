@@ -1,0 +1,29 @@
+{
+  "id": 155,
+  "tmdb": 850,
+  "title": "A Christmas Story",
+  "original_title": "A Christmas Story",
+  "image": "https://image.tmdb.org/t/p/original/f3VITMLSmP3Ai65AvXT54RcF5Sw.jpg",
+  "language": "en",
+  "release_date": "1983-11-18",
+  "rating": 7.385,
+  "reviews": [
+    {
+      "review_date": "2020-11-05",
+      "rating": 7.385,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 7,
+        "director": 8,
+        "performance": 8,
+        "visual": 7,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

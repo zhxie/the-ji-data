@@ -1,0 +1,29 @@
+{
+  "id": 609,
+  "tmdb": 872,
+  "title": "Singin' in the Rain",
+  "original_title": "Singin' in the Rain",
+  "image": "https://image.tmdb.org/t/p/original/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+  "language": "en",
+  "release_date": "1952-04-09",
+  "rating": 7.896,
+  "reviews": [
+    {
+      "review_date": "2023-02-04",
+      "rating": 7.896,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 8,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 10
+      }
+    }
+  ]
+}

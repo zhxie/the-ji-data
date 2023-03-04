@@ -1,0 +1,29 @@
+{
+  "id": 608,
+  "tmdb": 49046,
+  "title": "All Quiet on the Western Front",
+  "original_title": "Im Westen nichts Neues",
+  "image": "https://image.tmdb.org/t/p/original/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg",
+  "language": "de",
+  "release_date": "2022-10-07",
+  "rating": 7.393,
+  "reviews": [
+    {
+      "review_date": "2023-02-02",
+      "rating": 7.393,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 8,
+        "director": 7,
+        "performance": 7,
+        "visual": 8,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

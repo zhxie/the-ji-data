@@ -1,0 +1,29 @@
+{
+  "id": 332,
+  "tmdb": 566525,
+  "title": "Shang-Chi and the Legend of the Ten Rings",
+  "original_title": "Shang-Chi and the Legend of the Ten Rings",
+  "image": "https://image.tmdb.org/t/p/original/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
+  "language": "en",
+  "release_date": "2021-09-01",
+  "rating": 7.623,
+  "reviews": [
+    {
+      "review_date": "2021-09-04",
+      "rating": 7.623,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 8,
+        "director": 7,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

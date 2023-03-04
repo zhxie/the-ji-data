@@ -1,0 +1,29 @@
+{
+  "id": 35,
+  "tmdb": 503919,
+  "title": "The Lighthouse",
+  "original_title": "The Lighthouse",
+  "image": "https://image.tmdb.org/t/p/original/4SC4cyzHWWzDEdszdxHYPWd32YH.jpg",
+  "language": "en",
+  "release_date": "2019-10-18",
+  "rating": 7.669,
+  "reviews": [
+    {
+      "review_date": "2019-11-06",
+      "rating": 7.669,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 7,
+        "character": 7,
+        "director": 9,
+        "performance": 8,
+        "visual": 9,
+        "art": 9,
+        "editing": 9,
+        "sound": 10,
+        "music": 7
+      }
+    }
+  ]
+}

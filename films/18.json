@@ -1,0 +1,29 @@
+{
+  "id": 18,
+  "tmdb": 474350,
+  "title": "It Chapter Two",
+  "original_title": "It Chapter Two",
+  "image": "https://image.tmdb.org/t/p/original/zfE0R94v1E8cuKAerbskfD3VfUt.jpg",
+  "language": "en",
+  "release_date": "2019-09-04",
+  "rating": 7.136,
+  "reviews": [
+    {
+      "review_date": "2019-09-18",
+      "rating": 7.136,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 7,
+        "character": 6,
+        "director": 7,
+        "performance": 9,
+        "visual": 8,
+        "art": 9,
+        "editing": 8,
+        "sound": 8,
+        "music": 9
+      }
+    }
+  ]
+}

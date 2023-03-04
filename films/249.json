@@ -1,0 +1,29 @@
+{
+  "id": 249,
+  "tmdb": 610908,
+  "title": "Limbo",
+  "original_title": "Limbo",
+  "image": "https://image.tmdb.org/t/p/original/esHhcAHPNuGvlvOTQOSCYVKEbo1.jpg",
+  "language": "de",
+  "release_date": "2020-02-20",
+  "rating": 7.436,
+  "reviews": [
+    {
+      "review_date": "2021-04-30",
+      "rating": 7.436,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 6,
+        "story": 7,
+        "character": 8,
+        "director": 8,
+        "performance": 9,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

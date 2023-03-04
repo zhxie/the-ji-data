@@ -1,0 +1,29 @@
+{
+  "id": 360,
+  "tmdb": 841,
+  "title": "Dune",
+  "original_title": "Dune",
+  "image": "https://image.tmdb.org/t/p/original/gYxUaK8HIBBkE5MycLSDFoc8bRq.jpg",
+  "language": "en",
+  "release_date": "1984-12-14",
+  "rating": 5.18,
+  "reviews": [
+    {
+      "review_date": "2021-10-28",
+      "rating": 5.18,
+      "scores": {
+        "firstImpression": 5,
+        "overallFeeling": 5,
+        "story": 5,
+        "character": 6,
+        "director": 7,
+        "performance": 7,
+        "visual": 6,
+        "art": 6,
+        "editing": 5,
+        "sound": 7,
+        "music": 6
+      }
+    }
+  ]
+}

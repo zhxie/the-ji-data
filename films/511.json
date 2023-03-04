@@ -1,0 +1,29 @@
+{
+  "id": 511,
+  "tmdb": 332835,
+  "title": "Piku",
+  "original_title": "पीकू",
+  "image": "https://image.tmdb.org/t/p/original/yo7EZWiLpLGhqs3YnlDGDBPjfTb.jpg",
+  "language": "hi",
+  "release_date": "2015-05-08",
+  "rating": 6.959,
+  "reviews": [
+    {
+      "review_date": "2022-07-14",
+      "rating": 6.959,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 8,
+        "director": 7,
+        "performance": 8,
+        "visual": 7,
+        "art": 7,
+        "editing": 5,
+        "sound": 7,
+        "music": 6
+      }
+    }
+  ]
+}

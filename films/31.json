@@ -1,0 +1,29 @@
+{
+  "id": 31,
+  "tmdb": 338967,
+  "title": "Zombieland: Double Tap",
+  "original_title": "Zombieland: Double Tap",
+  "image": "https://image.tmdb.org/t/p/original/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg",
+  "language": "en",
+  "release_date": "2019-10-09",
+  "rating": 7.133,
+  "reviews": [
+    {
+      "review_date": "2019-10-22",
+      "rating": 7.133,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 6,
+        "director": 8,
+        "performance": 9,
+        "visual": 8,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

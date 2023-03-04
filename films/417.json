@@ -1,0 +1,29 @@
+{
+  "id": 417,
+  "tmdb": 41446,
+  "title": "Scream 4",
+  "original_title": "Scream 4",
+  "image": "https://image.tmdb.org/t/p/original/g0YcSd5QpgGXOjg9tl0if0soOkE.jpg",
+  "language": "en",
+  "release_date": "2011-04-11",
+  "rating": 5.962,
+  "reviews": [
+    {
+      "review_date": "2022-01-16",
+      "rating": 5.962,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 6,
+        "story": 6,
+        "character": 7,
+        "director": 7,
+        "performance": 6,
+        "visual": 6,
+        "art": 6,
+        "editing": 7,
+        "sound": 7,
+        "music": 6
+      }
+    }
+  ]
+}

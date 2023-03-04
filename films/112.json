@@ -1,0 +1,29 @@
+{
+  "id": 112,
+  "tmdb": 308266,
+  "title": "War Dogs",
+  "original_title": "War Dogs",
+  "image": "https://image.tmdb.org/t/p/original/uH9qGH5XS1iZXCSb3tgu40dxQoh.jpg",
+  "language": "en",
+  "release_date": "2016-08-17",
+  "rating": 7.156,
+  "reviews": [
+    {
+      "review_date": "2020-05-24",
+      "rating": 7.156,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 7,
+        "director": 7,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 7,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

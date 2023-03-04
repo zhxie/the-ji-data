@@ -1,0 +1,29 @@
+{
+  "id": 572,
+  "tmdb": 593643,
+  "title": "The Menu",
+  "original_title": "The Menu",
+  "image": "https://image.tmdb.org/t/p/original/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
+  "language": "en",
+  "release_date": "2022-11-17",
+  "rating": 6.664,
+  "reviews": [
+    {
+      "review_date": "2022-11-29",
+      "rating": 6.664,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 6,
+        "story": 7,
+        "character": 7,
+        "director": 7,
+        "performance": 8,
+        "visual": 7,
+        "art": 8,
+        "editing": 7,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

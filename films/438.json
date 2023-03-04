@@ -1,0 +1,29 @@
+{
+  "id": 438,
+  "tmdb": 5156,
+  "title": "Bicycle Thieves",
+  "original_title": "Ladri di biciclette",
+  "image": "https://image.tmdb.org/t/p/original/64lZvZAX4QsBvBrr2aYCqjg7pYG.jpg",
+  "language": "it",
+  "release_date": "1948-11-24",
+  "rating": 8.277,
+  "reviews": [
+    {
+      "review_date": "2022-03-03",
+      "rating": 8.277,
+      "scores": {
+        "firstImpression": 9,
+        "overallFeeling": 9,
+        "story": 9,
+        "character": 9,
+        "director": 9,
+        "performance": 8,
+        "visual": 8,
+        "art": 7,
+        "editing": 8,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 223,
+  "tmdb": 348657,
+  "title": "Woman at War",
+  "original_title": "Kona fer í stríð",
+  "image": "https://image.tmdb.org/t/p/original/9IwRoLxbYF1Vu1KxHt0aLbyeS5u.jpg",
+  "language": "is",
+  "release_date": "2018-05-22",
+  "rating": 7.138,
+  "reviews": [
+    {
+      "review_date": "2021-03-12",
+      "rating": 7.138,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 7,
+        "director": 8,
+        "performance": 8,
+        "visual": 7,
+        "art": 7,
+        "editing": 8,
+        "sound": 9,
+        "music": 9
+      }
+    }
+  ]
+}

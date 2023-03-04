@@ -1,0 +1,29 @@
+{
+  "id": 101,
+  "tmdb": 435577,
+  "title": "The 12th Man",
+  "original_title": "Den 12. mann",
+  "image": "https://image.tmdb.org/t/p/original/dxZ8iGf5jQoLcNqBJL6uzNTivp.jpg",
+  "language": "no",
+  "release_date": "2017-12-25",
+  "rating": 7.041,
+  "reviews": [
+    {
+      "review_date": "2020-05-02",
+      "rating": 7.041,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 7,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

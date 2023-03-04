@@ -1,0 +1,29 @@
+{
+  "id": 42,
+  "tmdb": 515001,
+  "title": "Jojo Rabbit",
+  "original_title": "Jojo Rabbit",
+  "image": "https://image.tmdb.org/t/p/original/7GsM4mtM0worCtIVeiQt28HieeN.jpg",
+  "language": "en",
+  "release_date": "2019-10-18",
+  "rating": 7.732,
+  "reviews": [
+    {
+      "review_date": "2019-11-13",
+      "rating": 7.732,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 7,
+        "director": 9,
+        "performance": 8,
+        "visual": 9,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

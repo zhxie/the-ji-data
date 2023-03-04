@@ -1,0 +1,29 @@
+{
+  "id": 455,
+  "tmdb": 259316,
+  "title": "Fantastic Beasts and Where to Find Them",
+  "original_title": "Fantastic Beasts and Where to Find Them",
+  "image": "https://image.tmdb.org/t/p/original/h6NYfVUyM6CDURtZSnBpz647Ldd.jpg",
+  "language": "en",
+  "release_date": "2016-11-16",
+  "rating": 7.307,
+  "reviews": [
+    {
+      "review_date": "2022-04-11",
+      "rating": 7.307,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 7,
+        "character": 7,
+        "director": 7,
+        "performance": 8,
+        "visual": 8,
+        "art": 9,
+        "editing": 8,
+        "sound": 9,
+        "music": 8
+      }
+    }
+  ]
+}

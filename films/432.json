@@ -1,0 +1,29 @@
+{
+  "id": 432,
+  "tmdb": 987750,
+  "title": "Inspector Sun and the Curse of the Black Widow",
+  "original_title": "Inspector Sun y la maldición de la viuda negra",
+  "image": "https://image.tmdb.org/t/p/original/v1Wj5lzvsvFbXHdrmYGdXL10Q73.jpg",
+  "language": "es",
+  "release_date": "2022-12-28",
+  "rating": 7.339,
+  "reviews": [
+    {
+      "review_date": "2022-02-19",
+      "rating": 7.339,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 7,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 7,
+        "editing": 7,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

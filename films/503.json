@@ -1,0 +1,29 @@
+{
+  "id": 503,
+  "tmdb": 438148,
+  "title": "Minions: The Rise of Gru",
+  "original_title": "Minions: The Rise of Gru",
+  "image": "https://image.tmdb.org/t/p/original/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+  "language": "en",
+  "release_date": "2022-06-29",
+  "rating": 6.746,
+  "reviews": [
+    {
+      "review_date": "2022-07-01",
+      "rating": 6.746,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 7,
+        "director": 7,
+        "performance": 8,
+        "visual": 8,
+        "art": 7,
+        "editing": 7,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

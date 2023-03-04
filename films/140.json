@@ -1,0 +1,29 @@
+{
+  "id": 140,
+  "tmdb": 41821,
+  "title": "Ju Dou",
+  "original_title": "菊豆",
+  "image": "https://image.tmdb.org/t/p/original/ejvX1lukPZZ10jatUWmKaXbhjGI.jpg",
+  "language": "zh",
+  "release_date": "1990-04-21",
+  "rating": 8.198,
+  "reviews": [
+    {
+      "review_date": "2020-09-26",
+      "rating": 8.198,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 8,
+        "director": 9,
+        "performance": 9,
+        "visual": 9,
+        "art": 8,
+        "editing": 8,
+        "sound": 9,
+        "music": 9
+      }
+    }
+  ]
+}

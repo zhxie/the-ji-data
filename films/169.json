@@ -1,0 +1,29 @@
+{
+  "id": 169,
+  "tmdb": 581734,
+  "title": "Nomadland",
+  "original_title": "Nomadland",
+  "image": "https://image.tmdb.org/t/p/original/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+  "language": "en",
+  "release_date": "2020-12-04",
+  "rating": 8.485,
+  "reviews": [
+    {
+      "review_date": "2020-12-04",
+      "rating": 8.485,
+      "scores": {
+        "firstImpression": 9,
+        "overallFeeling": 9,
+        "story": 8,
+        "character": 9,
+        "director": 9,
+        "performance": 9,
+        "visual": 8,
+        "art": 8,
+        "editing": 9,
+        "sound": 9,
+        "music": 8
+      }
+    }
+  ]
+}

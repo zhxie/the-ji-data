@@ -1,0 +1,29 @@
+{
+  "id": 30,
+  "tmdb": 420809,
+  "title": "Maleficent: Mistress of Evil",
+  "original_title": "Maleficent: Mistress of Evil",
+  "image": "https://image.tmdb.org/t/p/original/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",
+  "language": "en",
+  "release_date": "2019-10-16",
+  "rating": 6.555,
+  "reviews": [
+    {
+      "review_date": "2019-10-17",
+      "rating": 6.555,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 6,
+        "character": 6,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

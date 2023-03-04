@@ -1,0 +1,29 @@
+{
+  "id": 337,
+  "tmdb": 619778,
+  "title": "Malignant",
+  "original_title": "Malignant",
+  "image": "https://image.tmdb.org/t/p/original/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg",
+  "language": "en",
+  "release_date": "2021-09-01",
+  "rating": 6.211,
+  "reviews": [
+    {
+      "review_date": "2021-09-15",
+      "rating": 6.211,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 6,
+        "director": 6,
+        "performance": 6,
+        "visual": 7,
+        "art": 7,
+        "editing": 7,
+        "sound": 7,
+        "music": 8
+      }
+    }
+  ]
+}

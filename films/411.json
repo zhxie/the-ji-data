@@ -1,0 +1,29 @@
+{
+  "id": 411,
+  "tmdb": 575,
+  "title": "The Experiment",
+  "original_title": "Das Experiment",
+  "image": "https://image.tmdb.org/t/p/original/o6Yq5XcFfsmG5IVEy4qdJ8levmj.jpg",
+  "language": "de",
+  "release_date": "2001-03-07",
+  "rating": 7.556,
+  "reviews": [
+    {
+      "review_date": "2022-01-09",
+      "rating": 7.556,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 8,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 7,
+        "editing": 8,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

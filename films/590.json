@@ -1,0 +1,29 @@
+{
+  "id": 590,
+  "tmdb": 315162,
+  "title": "Puss in Boots: The Last Wish",
+  "original_title": "Puss in Boots: The Last Wish",
+  "image": "https://image.tmdb.org/t/p/original/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+  "language": "en",
+  "release_date": "2022-12-07",
+  "rating": 7.029,
+  "reviews": [
+    {
+      "review_date": "2022-12-22",
+      "rating": 7.029,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 7,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 9,
+        "art": 8,
+        "editing": 7,
+        "sound": 7,
+        "music": 8
+      }
+    }
+  ]
+}

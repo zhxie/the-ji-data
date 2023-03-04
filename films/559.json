@@ -1,0 +1,29 @@
+{
+  "id": 559,
+  "tmdb": 36614,
+  "title": "The Sum of Us",
+  "original_title": "The Sum of Us",
+  "image": "https://image.tmdb.org/t/p/original/piKBAyxYxSP14uVzK4BH9wjfPlY.jpg",
+  "language": "en",
+  "release_date": "1994-07-28",
+  "rating": 6.217,
+  "reviews": [
+    {
+      "review_date": "2022-11-01",
+      "rating": 6.217,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 6,
+        "story": 7,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 7,
+        "art": 6,
+        "editing": 7,
+        "sound": 5,
+        "music": 6
+      }
+    }
+  ]
+}

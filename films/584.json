@@ -1,0 +1,29 @@
+{
+  "id": 584,
+  "tmdb": 84892,
+  "title": "The Perks of Being a Wallflower",
+  "original_title": "The Perks of Being a Wallflower",
+  "image": "https://image.tmdb.org/t/p/original/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg",
+  "language": "en",
+  "release_date": "2012-09-20",
+  "rating": 7.916,
+  "reviews": [
+    {
+      "review_date": "2022-12-14",
+      "rating": 7.916,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 9,
+        "director": 8,
+        "performance": 7,
+        "visual": 7,
+        "art": 8,
+        "editing": 9,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

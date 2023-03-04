@@ -1,0 +1,29 @@
+{
+  "id": 308,
+  "tmdb": 436969,
+  "title": "The Suicide Squad",
+  "original_title": "The Suicide Squad",
+  "image": "https://image.tmdb.org/t/p/original/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg",
+  "language": "en",
+  "release_date": "2021-07-28",
+  "rating": 7.606,
+  "reviews": [
+    {
+      "review_date": "2021-08-06",
+      "rating": 7.606,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 6,
+        "story": 8,
+        "character": 8,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

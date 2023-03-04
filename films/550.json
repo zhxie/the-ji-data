@@ -1,0 +1,29 @@
+{
+  "id": 550,
+  "tmdb": 758330,
+  "title": "Good Luck to You, Leo Grande",
+  "original_title": "Good Luck to You, Leo Grande",
+  "image": "https://image.tmdb.org/t/p/original/5wQydIQYho2wz1suPOoPoNgMzCm.jpg",
+  "language": "en",
+  "release_date": "2022-06-17",
+  "rating": 4.817,
+  "reviews": [
+    {
+      "review_date": "2022-10-19",
+      "rating": 4.817,
+      "scores": {
+        "firstImpression": 4,
+        "overallFeeling": 3,
+        "story": 5,
+        "character": 6,
+        "director": 5,
+        "performance": 6,
+        "visual": 6,
+        "art": 6,
+        "editing": 7,
+        "sound": 7,
+        "music": 6
+      }
+    }
+  ]
+}

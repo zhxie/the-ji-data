@@ -1,0 +1,29 @@
+{
+  "id": 214,
+  "tmdb": 12167,
+  "title": "The Art of Negative Thinking",
+  "original_title": "Kunsten å tenke negativt",
+  "image": "https://image.tmdb.org/t/p/original/1Ze2048EyOqImLuDo2XNNEduqSe.jpg",
+  "language": "no",
+  "release_date": "2006-11-03",
+  "rating": 6.524,
+  "reviews": [
+    {
+      "review_date": "2021-02-18",
+      "rating": 6.524,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 7,
+        "director": 7,
+        "performance": 8,
+        "visual": 7,
+        "art": 7,
+        "editing": 5,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

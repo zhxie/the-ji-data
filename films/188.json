@@ -1,0 +1,29 @@
+{
+  "id": 188,
+  "tmdb": 26610,
+  "title": "Insomnia",
+  "original_title": "Insomnia",
+  "image": "https://image.tmdb.org/t/p/original/k0inzQmt7kATmAGns0wdfjiFxSu.jpg",
+  "language": "no",
+  "release_date": "1997-03-14",
+  "rating": 8.556,
+  "reviews": [
+    {
+      "review_date": "2021-01-10",
+      "rating": 8.556,
+      "scores": {
+        "firstImpression": 9,
+        "overallFeeling": 9,
+        "story": 9,
+        "character": 8,
+        "director": 9,
+        "performance": 8,
+        "visual": 9,
+        "art": 8,
+        "editing": 10,
+        "sound": 9,
+        "music": 8
+      }
+    }
+  ]
+}

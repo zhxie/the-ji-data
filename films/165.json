@@ -1,0 +1,29 @@
+{
+  "id": 165,
+  "tmdb": 551804,
+  "title": "Freaky",
+  "original_title": "Freaky",
+  "image": "https://image.tmdb.org/t/p/original/8xC6QSyxrpm0D5A6iyHNemEWBVe.jpg",
+  "language": "en",
+  "release_date": "2020-11-12",
+  "rating": 6.242,
+  "reviews": [
+    {
+      "review_date": "2020-11-16",
+      "rating": 6.242,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 6,
+        "character": 6,
+        "director": 6,
+        "performance": 8,
+        "visual": 7,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

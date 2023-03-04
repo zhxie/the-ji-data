@@ -1,0 +1,29 @@
+{
+  "id": 496,
+  "tmdb": 782,
+  "title": "Gattaca",
+  "original_title": "Gattaca",
+  "image": "https://image.tmdb.org/t/p/original/mi8ow4MIoPvgBnWB1OKe0ph0woa.jpg",
+  "language": "en",
+  "release_date": "1997-09-07",
+  "rating": 8.223,
+  "reviews": [
+    {
+      "review_date": "2022-06-23",
+      "rating": 8.223,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 9,
+        "character": 8,
+        "director": 9,
+        "performance": 8,
+        "visual": 9,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

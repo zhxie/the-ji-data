@@ -1,0 +1,29 @@
+{
+  "id": 372,
+  "tmdb": 425909,
+  "title": "Ghostbusters: Afterlife",
+  "original_title": "Ghostbusters: Afterlife",
+  "image": "https://image.tmdb.org/t/p/original/xCTn3IA729UuyvB4rY65fiOOzUv.jpg",
+  "language": "en",
+  "release_date": "2021-11-11",
+  "rating": 6.474,
+  "reviews": [
+    {
+      "review_date": "2021-11-21",
+      "rating": 6.474,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 6,
+        "director": 7,
+        "performance": 7,
+        "visual": 7,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

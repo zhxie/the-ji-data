@@ -1,0 +1,29 @@
+{
+  "id": 570,
+  "tmdb": 877269,
+  "title": "Strange World",
+  "original_title": "Strange World",
+  "image": "https://image.tmdb.org/t/p/original/fHMqfsYyl3lskPK2RiFRwhzwuep.jpg",
+  "language": "en",
+  "release_date": "2022-11-23",
+  "rating": 6.63,
+  "reviews": [
+    {
+      "review_date": "2022-11-28",
+      "rating": 6.63,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 6,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 8,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

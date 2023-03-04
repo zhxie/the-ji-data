@@ -1,0 +1,29 @@
+{
+  "id": 382,
+  "tmdb": 718032,
+  "title": "Licorice Pizza",
+  "original_title": "Licorice Pizza",
+  "image": "https://image.tmdb.org/t/p/original/jD98aUKHQZNAmrk0wQQ9wmNQPnP.jpg",
+  "language": "en",
+  "release_date": "2021-11-26",
+  "rating": 7.97,
+  "reviews": [
+    {
+      "review_date": "2021-12-08",
+      "rating": 7.97,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 7,
+        "character": 8,
+        "director": 9,
+        "performance": 10,
+        "visual": 10,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 542,
+  "tmdb": 614939,
+  "title": "Bros",
+  "original_title": "Bros",
+  "image": "https://image.tmdb.org/t/p/original/op02Hv5i4Z049nGJYmk6BScRqHO.jpg",
+  "language": "en",
+  "release_date": "2022-09-30",
+  "rating": 6.471,
+  "reviews": [
+    {
+      "review_date": "2022-10-01",
+      "rating": 6.471,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 6,
+        "story": 7,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 6,
+        "art": 7,
+        "editing": 5,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

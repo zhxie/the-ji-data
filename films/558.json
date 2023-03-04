@@ -1,0 +1,29 @@
+{
+  "id": 558,
+  "tmdb": 704,
+  "title": "A Hard Day's Night",
+  "original_title": "A Hard Day's Night",
+  "image": "https://image.tmdb.org/t/p/original/p0kHz7m64wDzvPLmkUl36pN2IHP.jpg",
+  "language": "en",
+  "release_date": "1964-07-07",
+  "rating": 7.23,
+  "reviews": [
+    {
+      "review_date": "2022-10-31",
+      "rating": 7.23,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 8,
+        "director": 8,
+        "performance": 8,
+        "visual": 6,
+        "art": 7,
+        "editing": 8,
+        "sound": 7,
+        "music": 9
+      }
+    }
+  ]
+}

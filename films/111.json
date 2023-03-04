@@ -1,0 +1,29 @@
+{
+  "id": 111,
+  "tmdb": 407448,
+  "title": "Detroit",
+  "original_title": "Detroit",
+  "image": "https://image.tmdb.org/t/p/original/tmCt2hy9QoFHft3UcHwpGX2Sihl.jpg",
+  "language": "en",
+  "release_date": "2017-07-28",
+  "rating": 7.717,
+  "reviews": [
+    {
+      "review_date": "2020-05-23",
+      "rating": 7.717,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 8,
+        "director": 8,
+        "performance": 8,
+        "visual": 8,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 182,
+  "tmdb": 438740,
+  "title": "Salyut-7",
+  "original_title": "Салют-7",
+  "image": "https://image.tmdb.org/t/p/original/s2ktgF2ze4aVt9bXBUvxFJllqyd.jpg",
+  "language": "ru",
+  "release_date": "2017-09-22",
+  "rating": 6.286,
+  "reviews": [
+    {
+      "review_date": "2021-01-04",
+      "rating": 6.286,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 6,
+        "story": 7,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 6,
+        "art": 7,
+        "editing": 6,
+        "sound": 7,
+        "music": 6
+      }
+    }
+  ]
+}

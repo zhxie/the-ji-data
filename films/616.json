@@ -1,0 +1,29 @@
+{
+  "id": 616,
+  "tmdb": 597,
+  "title": "Titanic",
+  "original_title": "Titanic",
+  "image": "https://image.tmdb.org/t/p/original/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+  "language": "en",
+  "release_date": "1997-11-18",
+  "rating": 8.441,
+  "reviews": [
+    {
+      "review_date": "2023-02-12",
+      "rating": 8.441,
+      "scores": {
+        "firstImpression": 9,
+        "overallFeeling": 9,
+        "story": 8,
+        "character": 8,
+        "director": 9,
+        "performance": 9,
+        "visual": 9,
+        "art": 8,
+        "editing": 9,
+        "sound": 9,
+        "music": 10
+      }
+    }
+  ]
+}

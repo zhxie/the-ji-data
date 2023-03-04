@@ -1,0 +1,29 @@
+{
+  "id": 460,
+  "tmdb": 698128,
+  "title": "Dual",
+  "original_title": "Dual",
+  "image": "https://image.tmdb.org/t/p/original/wDEse2TQRiyfhdlusSXBdkDOQRj.jpg",
+  "language": "en",
+  "release_date": "2022-03-18",
+  "rating": 7.706,
+  "reviews": [
+    {
+      "review_date": "2022-04-20",
+      "rating": 7.706,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 8,
+        "director": 9,
+        "performance": 8,
+        "visual": 7,
+        "art": 8,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

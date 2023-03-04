@@ -1,0 +1,29 @@
+{
+  "id": 520,
+  "tmdb": 520023,
+  "title": "Bodies Bodies Bodies",
+  "original_title": "Bodies Bodies Bodies",
+  "image": "https://image.tmdb.org/t/p/original/uU3YoLSaVBOaMryzhuiiRWDFbIw.jpg",
+  "language": "en",
+  "release_date": "2022-08-05",
+  "rating": 7.147,
+  "reviews": [
+    {
+      "review_date": "2022-08-08",
+      "rating": 7.147,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 7,
+        "director": 8,
+        "performance": 8,
+        "visual": 7,
+        "art": 8,
+        "editing": 8,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

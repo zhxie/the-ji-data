@@ -1,0 +1,29 @@
+{
+  "id": 92,
+  "tmdb": 553,
+  "title": "Dogville",
+  "original_title": "Dogville",
+  "image": "https://image.tmdb.org/t/p/original/lraVawavIXh5geMlVjpzCw9TGwR.jpg",
+  "language": "en",
+  "release_date": "2003-05-19",
+  "rating": 7.76,
+  "reviews": [
+    {
+      "review_date": "2020-04-07",
+      "rating": 7.76,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 7,
+        "director": 8,
+        "performance": 9,
+        "visual": 8,
+        "art": 8,
+        "editing": 9,
+        "sound": 9,
+        "music": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 63,
+  "tmdb": 536869,
+  "title": "Cats",
+  "original_title": "Cats",
+  "image": "https://image.tmdb.org/t/p/original/aCNch5FmzT2WaUcY44925owIZXY.jpg",
+  "language": "en",
+  "release_date": "2019-12-19",
+  "rating": 6.913,
+  "reviews": [
+    {
+      "review_date": "2019-12-19",
+      "rating": 6.913,
+      "scores": {
+        "firstImpression": 6,
+        "overallFeeling": 6,
+        "story": 7,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 9,
+        "art": 8,
+        "editing": 7,
+        "sound": 8,
+        "music": 9
+      }
+    }
+  ]
+}

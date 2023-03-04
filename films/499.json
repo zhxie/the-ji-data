@@ -1,0 +1,29 @@
+{
+  "id": 499,
+  "tmdb": 9552,
+  "title": "The Exorcist",
+  "original_title": "The Exorcist",
+  "image": "https://image.tmdb.org/t/p/original/4ucLGcXVVSVnsfkGtbLY4XAius8.jpg",
+  "language": "en",
+  "release_date": "1973-12-26",
+  "rating": 8.403,
+  "reviews": [
+    {
+      "review_date": "2022-06-27",
+      "rating": 8.403,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 9,
+        "story": 9,
+        "character": 8,
+        "director": 9,
+        "performance": 9,
+        "visual": 9,
+        "art": 9,
+        "editing": 8,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

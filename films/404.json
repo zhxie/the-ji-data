@@ -1,0 +1,29 @@
+{
+  "id": 404,
+  "tmdb": 508943,
+  "title": "Luca",
+  "original_title": "Luca",
+  "image": "https://image.tmdb.org/t/p/original/8tABCBpzu3mZbzMB3sRzMEHEvJi.jpg",
+  "language": "en",
+  "release_date": "2021-06-17",
+  "rating": 7.448,
+  "reviews": [
+    {
+      "review_date": "2021-12-31",
+      "rating": 7.448,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 7,
+        "story": 8,
+        "character": 7,
+        "director": 8,
+        "performance": 8,
+        "visual": 9,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 551,
+  "tmdb": 674324,
+  "title": "The Banshees of Inisherin",
+  "original_title": "The Banshees of Inisherin",
+  "image": "https://image.tmdb.org/t/p/original/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
+  "language": "en",
+  "release_date": "2022-10-20",
+  "rating": 8.135,
+  "reviews": [
+    {
+      "review_date": "2022-10-26",
+      "rating": 8.135,
+      "scores": {
+        "firstImpression": 9,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 9,
+        "director": 8,
+        "performance": 9,
+        "visual": 8,
+        "art": 8,
+        "editing": 7,
+        "sound": 8,
+        "music": 8
+      }
+    }
+  ]
+}

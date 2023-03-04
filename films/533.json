@@ -1,0 +1,29 @@
+{
+  "id": 533,
+  "tmdb": 913290,
+  "title": "Barbarian",
+  "original_title": "Barbarian",
+  "image": "https://image.tmdb.org/t/p/original/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+  "language": "en",
+  "release_date": "2022-09-08",
+  "rating": 6.506,
+  "reviews": [
+    {
+      "review_date": "2022-09-10",
+      "rating": 6.506,
+      "scores": {
+        "firstImpression": 7,
+        "overallFeeling": 7,
+        "story": 7,
+        "character": 7,
+        "director": 7,
+        "performance": 7,
+        "visual": 7,
+        "art": 6,
+        "editing": 7,
+        "sound": 7,
+        "music": 7
+      }
+    }
+  ]
+}

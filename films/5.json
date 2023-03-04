@@ -1,0 +1,29 @@
+{
+  "id": 5,
+  "tmdb": 152742,
+  "title": "The Best Offer",
+  "original_title": "La migliore offerta",
+  "image": "https://image.tmdb.org/t/p/original/yfbsINSfotAHaeWKJbfsVKSckvq.jpg",
+  "language": "en",
+  "release_date": "2013-01-01",
+  "rating": 7.843,
+  "reviews": [
+    {
+      "review_date": "2019-08-13",
+      "rating": 7.843,
+      "scores": {
+        "firstImpression": 8,
+        "overallFeeling": 8,
+        "story": 8,
+        "character": 9,
+        "director": 7,
+        "performance": 8,
+        "visual": 7,
+        "art": 7,
+        "editing": 8,
+        "sound": 8,
+        "music": 9
+      }
+    }
+  ]
+}

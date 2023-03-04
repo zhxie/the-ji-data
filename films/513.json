@@ -1,0 +1,29 @@
+{
+  "id": 513,
+  "tmdb": 682507,
+  "title": "Where the Crawdads Sing",
+  "original_title": "Where the Crawdads Sing",
+  "image": "https://image.tmdb.org/t/p/original/6h5OCqRnWH7Dcm4IeP4JypBdtuI.jpg",
+  "language": "en",
+  "release_date": "2022-07-15",
+  "rating": 6.067,
+  "reviews": [
+    {
+      "review_date": "2022-07-18",
+      "rating": 6.067,
+      "scores": {
+        "firstImpression": 6,
+        "overallFeeling": 6,
+        "story": 7,
+        "character": 7,
+        "director": 6,
+        "performance": 6,
+        "visual": 6,
+        "art": 7,
+        "editing": 7,
+        "sound": 7,
+        "music": 6
+      }
+    }
+  ]
+}
